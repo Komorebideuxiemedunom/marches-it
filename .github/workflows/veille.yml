@@ -1,0 +1,39 @@
+name: Veille quotidienne
+
+# Chaque matin : relit le BOAMP, envoie les nouveaux avis aux abonnés et régénère le site.
+# Dépôt public : minutes Actions non décomptées du quota. Abonnés et identifiants Gmail
+# ne sont que dans les secrets (ABONNES, GMAIL_EXPEDITEUR, GMAIL_APP_PASSWORD).
+on:
+  schedule:
+    - cron: '7 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency: veille
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Relire le BOAMP et prévenir les abonnés
+        env:
+          ABONNES: ${{ secrets.ABONNES }}
+          GMAIL_EXPEDITEUR: ${{ secrets.GMAIL_EXPEDITEUR }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python3 tools/veille.py
+      - name: Publier
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A
+          git diff --cached --quiet && exit 0
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Veille du $(date +%F)"
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

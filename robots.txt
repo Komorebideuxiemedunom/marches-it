@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://komorebideuxiemedunom.github.io/marches-it/sitemap.xml
