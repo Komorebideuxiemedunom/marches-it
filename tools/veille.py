@@ -136,7 +136,7 @@ def corps_mail(avis, abonne):
     if abonne.get("categories"):
         filtres.append(", ".join(NOMS_CATEGORIES[c].lower() for c in abonne["categories"] if c in NOMS_CATEGORIES))
     return (f'<div style="font-family:-apple-system,Segoe UI,sans-serif;max-width:640px;color:#111">'
-            f'<p>{len(avis)} nouvel{"s" if len(avis) > 1 else ""} appel{"s" if len(avis) > 1 else ""} d\'offres '
+            f'<p>{len(avis)} {"nouveaux appels" if len(avis) > 1 else "nouvel appel"} d\'offres '
             f'{"pour tes critères (" + " ; ".join(filtres) + ")" if filtres else "en informatique et web"}.</p>{"".join(lignes)}'
             f'<p style="color:#777;font-size:12px;margin-top:28px">Marchés IT · source : BOAMP (DILA), licence ouverte. '
             f'Pour changer tes critères ou te désabonner, réponds simplement à ce message.</p></div>')
