@@ -192,6 +192,178 @@
   "categorie": "logiciel",
   "vu_le": "2026-10-23"
  },
+ "26-103575": {
+  "id": "26-103575",
+  "objet": "Production de modules pédagogiques en réalité virtuelle dit « full-3D »",
+  "acheteur": "IFP Energies nouvelles",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-23T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103575",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-24"
+ },
+ "26-103647": {
+  "id": "26-103647",
+  "objet": "Mission d'assistance technique au chiffrement des communications Opc Ua du Scada lignes A et B",
+  "acheteur": "Rennes Métropole",
+  "departements": [
+   "35"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-20T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103647",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-24"
+ },
+ "26-103645": {
+  "id": "26-103645",
+  "objet": "Hébergement, maintenance et développement Site internet des Célestins, Théâtre de Lyon",
+  "acheteur": "Ville de Lyon",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-20T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103645",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "web",
+  "vu_le": "2026-10-24"
+ },
+ "26-103717": {
+  "id": "26-103717",
+  "objet": "Prestation d'assistance à la gestion des DT-DICT-ATU sur les systèmes d'endiguement",
+  "acheteur": "Etablissement Public Loire",
+  "departements": [
+   "45",
+   "43",
+   "3",
+   "58",
+   "18",
+   "41",
+   "37"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-23T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103717",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-24"
+ },
+ "26-103454": {
+  "id": "26-103454",
+  "objet": "Maintenance et évolution du système de téléphonie sur Ip - Prestations associées",
+  "acheteur": "Saint-Etienne Métropole",
+  "departements": [
+   "42"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-13T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103454",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-24"
+ },
+ "26-103675": {
+  "id": "26-103675",
+  "objet": "Correction dématérialisée des examens et concours EN3S",
+  "acheteur": "ECOLE NATIONALE SUPERIEURE DE SECURITE SOCIALE",
+  "departements": [
+   "42"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-30T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103675",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-24"
+ },
+ "26-103555": {
+  "id": "26-103555",
+  "objet": "Infogérance, hébergement et fourniture de matériels et de licences du Système d'Information de la Ville de Canohès",
+  "acheteur": "Commune De Canohes",
+  "departements": [
+   "66"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-23T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103555",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-24"
+ },
+ "26-103670": {
+  "id": "26-103670",
+  "objet": "Marché public portant sur la conception, la réalisation, l’exploitation et la maintenance d’une infrastructure IoT LoRaWAN dans les Pyrénées-Atlantiques, incluant plateforme de supervision et outils d",
+  "acheteur": "Syndicat Mixte La Fibre64",
+  "departements": [
+   "64"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-27T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103670",
+  "type": "Travaux",
+  "procedure": "Procédure Adaptée",
+  "categorie": "telecom",
+  "vu_le": "2026-10-24"
+ },
+ "26-103443": {
+  "id": "26-103443",
+  "objet": "La consultation a pour objet la fourniture de licences Windows 365 et prestations associées.",
+  "acheteur": "Mairie d'Oignies",
+  "departements": [
+   "62",
+   "59"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-20T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103443",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-24"
+ },
+ "26-103475": {
+  "id": "26-103475",
+  "objet": "Renouvellement de la maintenance des serveurs du Département de la Charente",
+  "acheteur": "Conseil Départemental de la Charente",
+  "departements": [
+   "16"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-23T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103475",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "infra",
+  "vu_le": "2026-10-24"
+ },
+ "26-103701": {
+  "id": "26-103701",
+  "objet": "Gestion externalisée des IJSS de la Région Île-de-France, 2027 - 2030",
+  "acheteur": "Région Ile de France",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-23",
+  "limite": "2026-11-17T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103701",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-24"
+ },
  "26-102108": {
   "id": "26-102108",
   "objet": "Déploiement d'un ATS recrutement",
