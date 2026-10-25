@@ -13,21 +13,43 @@ CONTACT = ("mailto:inceept@gmail.com?subject=" + "Essai%20gratuit%20March%C3%A9s
            + "&body=" + "Bonjour%2C%0A%0AJe%20veux%20essayer%20March%C3%A9s%20IT%20pendant%2014%20jours.%0A%0AD%C3%A9partements%20(ou%20%C2%AB%20toute%20la%20France%20%C2%BB)%20%3A%20%0ACat%C3%A9gories%20(sites%20et%20applications%2C%20logiciels%2C%20infrastructure%2C%20cybers%C3%A9curit%C3%A9%2C%20mat%C3%A9riel%2C%20t%C3%A9l%C3%A9coms%2C%20ou%20%C2%AB%20toutes%20%C2%BB)%20%3A%20%0AEntreprise%20%3A%20%0A")
 HEAD = """<!doctype html>
 <html lang="fr"><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"><meta name="referrer" content="no-referrer"><meta name="viewport" content="width=device-width,initial-scale=1">"""
-STYLE = """<style>
-:root{--bg:#F6F6F3;--ink:#16181C;--muted:#5E636B;--card:#fff;--accent:#1F5FD1;--line:rgba(0,0,0,.09)}
-@media (prefers-color-scheme:dark){:root{--bg:#0F1013;--ink:#ECEADF;--muted:#A3A39A;--card:#1A1B20;--accent:#7AA7FF;--line:rgba(255,255,255,.09)}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-main{max-width:760px;margin:0 auto;padding:44px 20px}h1{font-size:34px;line-height:1.2;margin:8px 0 10px}h2{font-size:21px;margin-top:34px}
-p,li{color:var(--muted)}a{color:var(--accent)}.marque{font-weight:700;letter-spacing:.02em;color:var(--ink);text-decoration:none}
-.card{background:var(--card);border-radius:18px;padding:18px 20px;margin:20px 0;box-shadow:0 4px 16px rgba(0,0,0,.05)}
-.chiffres{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;text-align:center}.chiffres p{margin:0;font-size:14px}
-.chiffres strong{display:block;font-size:30px;color:var(--ink)}
-.cta{background:var(--accent);border-radius:18px;padding:20px 22px;margin:26px 0}.cta p,.cta strong{color:#fff}
-.btn{display:inline-block;background:#fff;color:#1F5FD1;font-weight:700;border-radius:12px;padding:11px 18px;text-decoration:none;margin-top:4px}
-.avis{border-top:1px solid var(--line);padding:10px 0}.avis a{font-weight:600}.avis small{display:block;color:var(--muted);font-size:14px}
-.cats{font-size:15px;line-height:2}.note{font-size:13px}footer{margin-top:40px;font-size:14px;color:var(--muted)}
-@media (max-width:560px){.chiffres{grid-template-columns:1fr}}
+STYLE = """<link rel="preload" href="fonts/source-serif.woff2" as="font" type="font/woff2" crossorigin><style>
+@font-face{font-family:"Source Serif";src:url(fonts/source-serif.woff2) format("woff2");font-weight:200 900;font-display:swap}
+@font-face{font-family:"Franklin";src:url(fonts/libre-franklin.woff2) format("woff2");font-weight:100 900;font-display:swap}
+:root{--bg:#F4F1EA;--ink:#141414;--muted:#4A4844;--accent:#A8231B;--line:#D9D3C6;--s1:8px;--s2:16px;--s3:24px;--s4:32px;--s6:48px;--s8:64px}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--ink:#EEEBE3;--muted:#B5B1A8;--accent:#FF7A6E;--line:#2E2D2B}}
+*{box-sizing:border-box}html{background:var(--bg)}body{margin:0;color:var(--ink);font:400 18px/1.6 "Source Serif",Georgia,serif}
+main{max-width:1120px;margin:0 auto;padding:var(--s3) var(--s3) var(--s8)}
+a{color:var(--ink);text-decoration-color:var(--accent);text-underline-offset:3px}a:hover,a:focus-visible{color:var(--accent);text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+p,li{color:var(--muted);max-width:66ch}strong{color:var(--ink)}
+.une{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:var(--s1);border-bottom:4px double var(--ink);padding-bottom:var(--s1);margin-bottom:var(--s6);font:600 13px "Franklin",sans-serif;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.marque{font:800 26px "Franklin",sans-serif;letter-spacing:-.01em;text-transform:none;color:var(--ink);text-decoration:none}
+.marque:hover{color:var(--accent)}
+h1{font-weight:700;font-size:clamp(40px,6vw,76px);line-height:1;letter-spacing:-.02em;margin:0 0 var(--s3);max-width:20ch}
+h2{font:700 14px "Franklin",sans-serif;text-transform:uppercase;letter-spacing:.1em;color:var(--ink);border-top:2px solid var(--ink);padding-top:var(--s1);margin:var(--s6) 0 var(--s2)}
+.chapeau{font-size:clamp(20px,2.2vw,24px);line-height:1.45;color:var(--ink);max-width:44ch}
+.chiffres{font-size:clamp(22px,2.6vw,32px);line-height:1.35;color:var(--ink);max-width:none;margin:var(--s4) 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:var(--s3) 0}
+.chiffres strong{font-weight:800;color:var(--accent)}
+.cta{border:2px solid var(--ink);padding:var(--s4);margin:var(--s6) 0;display:grid;grid-template-columns:minmax(0,2fr) auto;gap:var(--s3);align-items:center}
+.cta p{color:var(--ink);margin:0}
+.btn{display:inline-block;background:var(--accent);color:var(--bg);font:700 16px "Franklin",sans-serif;padding:14px 22px;text-decoration:none;white-space:nowrap}
+.btn:hover,.btn:focus-visible{background:var(--ink);color:var(--bg)}
+.avis-liste{columns:2 360px;column-gap:var(--s6);column-rule:1px solid var(--line)}
+.avis{break-inside:avoid;border-top:1px solid var(--line);padding:var(--s2) 0}.avis a{font-weight:650;font-size:19px;line-height:1.3;text-decoration:none}.avis a:hover{text-decoration:underline}
+.avis small{display:block;color:var(--muted);font:400 14px/1.5 "Franklin",sans-serif;margin-top:4px}
+.cats{font:500 16px/2 "Franklin",sans-serif}.note{font:400 14px "Franklin",sans-serif}
+footer{margin-top:var(--s8);padding-top:var(--s2);border-top:4px double var(--ink);font:400 14px "Franklin",sans-serif;color:var(--muted)}
+@media (max-width:720px){main{padding:var(--s2) var(--s2) var(--s6)}.cta{grid-template-columns:1fr}.une{margin-bottom:var(--s4)}}
 </style>"""
+
+
+JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+
+
+def date_longue(d):
+    return f"{JOURS[d.weekday()]} {d.day} {MOIS[d.month - 1]} {d.year}"
 
 
 def esc(v):
@@ -45,7 +67,7 @@ def bloc_avis(avis):
         limite = f" · réponse avant le {date_fr(a['limite'])}" if a["limite"] else ""
         out.append(f'<div class="avis"><a href="{esc(a["url"])}" rel="nofollow">{esc(a["objet"])}</a>'
                    f'<small>{esc(a["acheteur"])} · {esc(lieu)} · publié le {date_fr(a["parution"])}{limite}</small></div>')
-    return "".join(out)
+    return '<div class="avis-liste">' + "".join(out) + "</div>" if out else ""
 
 
 def page(chemin, titre, description, corps, faq=()):
@@ -54,7 +76,8 @@ def page(chemin, titre, description, corps, faq=()):
     doc = (f'{HEAD}\n<title>{esc(titre)}</title>\n<meta name="description" content="{esc(description)}">\n'
            f'<link rel="canonical" href="{BASE}{"" if chemin == "index.html" else chemin}">{STYLE}'
            + (f'\n<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>' if ld else "")
-           + f'</head>\n<body><main><a class="marque" href="index.html">Marchés IT</a>\n{corps}\n'
+           + f'</head>\n<body><main><div class="une"><a class="marque" href="index.html">Marchés IT</a>'
+           f'<span>Le bulletin des marchés publics informatiques</span><span>{date_longue(dt.date.today())}</span></div>\n{corps}\n'
            + "".join(f"<h2>{esc(q)}</h2><p>{esc(r)}</p>" for q, r in faq)
            + '\n<footer>Source : BOAMP, Direction de l\'information légale et administrative, licence ouverte. '
            'Marchés IT n\'est pas affilié au BOAMP. · <a href="mailto:inceept@gmail.com?subject=March%C3%A9s%20IT">Contact</a> · © 2026 Lucas Dansac</footer></main></body></html>\n')
@@ -88,10 +111,10 @@ def generer(avis, categories):
          "Oui. Beaucoup de marchés informatiques sont des procédures adaptées (MAPA), ouvertes aux TPE et aux indépendants, parfois découpées en lots. On peut aussi répondre en groupement avec d'autres entreprises."),
     ]
     corps = (f'<h1>Les appels d\'offres publics en informatique et web, chaque matin</h1>'
-             f'<p>Sites internet, applications, logiciels, hébergement, cybersécurité, matériel : Marchés IT relit le BOAMP tous les jours '
+             f'<p class="chapeau">Sites internet, applications, logiciels, hébergement, cybersécurité, matériel : Marchés IT relit le BOAMP tous les jours '
              f'et t\'envoie seulement les marchés de ton métier, dans tes départements.</p>'
-             f'<div class="card chiffres"><p><strong>{par_semaine}</strong>avis informatiques publiés ces 7 derniers jours</p>'
-             f'<p><strong>{ouverts}</strong>marchés encore ouverts aux réponses</p><p><strong>{len(recents)}</strong>avis récents réservés aux abonnés</p></div>'
+             f'<p class="chiffres"><strong>{par_semaine}</strong> avis informatiques publiés ces 7 derniers jours, '
+             f'<strong>{ouverts}</strong> marchés encore ouverts aux réponses, <strong>{len(recents)}</strong> avis récents réservés aux abonnés.</p>'
              + cta("Ne rate plus un marché.")
              + f'<h2>Par catégorie</h2><p class="cats">{liens_cats}</p>'
              f'<h2>Derniers avis publics</h2><p class="note">Avis publiés il y a au moins {RETARD} jours. Les abonnés les ont reçus le jour même.</p>'
@@ -112,5 +135,5 @@ def generer(avis, categories):
              corps)
 
     urls = [BASE] + [f"{BASE}appels-offres-{c}.html" for c, _, _ in categories]
-    open("sitemap.xml", "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+    open("sitemap.xml", "w", encoding="utf-8").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                    + "".join(f"<url><loc>{u}</loc><lastmod>{aujourdhui.isoformat()}</lastmod></url>" for u in urls) + "</urlset>\n")
