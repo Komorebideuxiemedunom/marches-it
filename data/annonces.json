@@ -1,4 +1,165 @@
 {
+ "26-103069": {
+  "id": "26-103069",
+  "objet": "Fourniture et livraison de périphériques, accessoires et connectiques informatiques",
+  "acheteur": "SDEA Alsace-Moselle",
+  "departements": [
+   "67"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-23T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103069",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-25"
+ },
+ "26-103133": {
+  "id": "26-103133",
+  "objet": "Matériels informatiques Apple destinés au monde de l’éducation",
+  "acheteur": "Association marchés publics d&#039;Aquitaine - AMPA",
+  "departements": [
+   "33",
+   "24",
+   "40",
+   "47",
+   "64",
+   "19",
+   "23",
+   "87",
+   "16"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-23T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103133",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-25"
+ },
+ "26-103120": {
+  "id": "26-103120",
+  "objet": "Accord cadre de fournitures de composants et accessoires informatiques pour l’Université de Caen Normandie",
+  "acheteur": "UNIVERSITE DE CAEN NORMANDIE",
+  "departements": [
+   "14",
+   "50",
+   "61"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-24T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103120",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-25"
+ },
+ "26-102996": {
+  "id": "26-102996",
+  "objet": "Conception et développement d'un Serious Game et de capsules e-learning portant sur le risque CO2 et autres risques chimiques en cave de vinification",
+  "acheteur": "CAISSE CENTRALE MSA",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-11-23T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102996",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-25"
+ },
+ "26-102820": {
+  "id": "26-102820",
+  "objet": "INFOGERANCE DU SYSTEME INFORMATIQUE ET FIBRE+TELEPHONIQUE DE LA COMMUNAUTE DE COMMUNES LOIRE SEMENE",
+  "acheteur": "Loire Semène",
+  "departements": [
+   "43"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-11-23T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102820",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-25"
+ },
+ "26-102899": {
+  "id": "26-102899",
+  "objet": "Service d'infogérance des systèmes informatiques de la Ville de Saint-Just Saint-Rambert",
+  "acheteur": "VILLE DE SAINT-JUST SAINT-RAMBERT",
+  "departements": [
+   "42"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-11-23T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102899",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-25"
+ },
+ "26-103006": {
+  "id": "26-103006",
+  "objet": "Prestations de support de maintenance corrective et évolutive sur les produits SAP BO",
+  "acheteur": "Conseil régional Auvergne-Rhône-Alpes",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-11-30T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103006",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-25"
+ },
+ "26-103042": {
+  "id": "26-103042",
+  "objet": "Mise en place d'un chatbot à destination client pour le site actionlogement.fr",
+  "acheteur": "ACTION LOGEMENT SERVICES",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-24",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103042",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-10-25"
+ },
+ "26-102840": {
+  "id": "26-102840",
+  "objet": "Prestations de mise à disposition de personnel intérimaire pour le compte du Centre Départemental Enfance Familles (CDEF)",
+  "acheteur": "Conseil départemental Loire Atlantique",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-11-27T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102840",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-25"
+ },
+ "26-102945": {
+  "id": "26-102945",
+  "objet": "Massification des opérations de maintenance du parc applicatif de l’ASP - MP 26-09",
+  "acheteur": "A.S.P",
+  "departements": [
+   "87",
+   "93"
+  ],
+  "parution": "2026-10-24",
+  "limite": "2026-10-26T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102945",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-25"
+ },
  "26-102518": {
   "id": "26-102518",
   "objet": "Acquisition de téléphones mobiles, de tablettes et d'accessoires reconditionnés au profit de la Région Provence-Alpes-Côte d'Azur et des adhérents de la Centrale d'achat régionale",
