@@ -1,4 +1,19 @@
 {
+ "26-103833": {
+  "id": "26-103833",
+  "objet": "Acces Internet, Telephonie Ip & Maintenance Reseau De La Pepiniere D'Entreprises Creativa",
+  "acheteur": "Grand Avignon",
+  "departements": [
+   "84"
+  ],
+  "parution": "2026-10-26",
+  "limite": "2026-11-23T23:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103833",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-26"
+ },
  "26-103069": {
   "id": "26-103069",
   "objet": "Fourniture et livraison de périphériques, accessoires et connectiques informatiques",
@@ -53,6 +68,195 @@
   "procedure": "Procédure Ouverte",
   "categorie": "materiel",
   "vu_le": "2026-10-25"
+ },
+ "26-103266": {
+  "id": "26-103266",
+  "objet": "Evolutions applicatives et maintien en conditions opérationnelles du logiciel libre « Bien VU » pour la gestion des signalements avec son framework Lutèce",
+  "acheteur": "Etablissement Public Territorial Plaine Commune",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-26T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103266",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-26"
+ },
+ "26-103615": {
+  "id": "26-103615",
+  "objet": "Prestations de services et maintenance de cuisines professionnelles des services du Premier ministre (site Ségur Fontenoy)",
+  "acheteur": "DSAF - SPM",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-10-28T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103615",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-26"
+ },
+ "26-103620": {
+  "id": "26-103620",
+  "objet": "Serveurs reconditionnés et équipements d'infrastructure associés",
+  "acheteur": "Association marchés publics d&#039;Aquitaine - AMPA",
+  "departements": [
+   "33",
+   "24",
+   "40",
+   "47",
+   "64",
+   "19",
+   "23",
+   "87",
+   "16"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-23T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103620",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-26"
+ },
+ "26-103378": {
+  "id": "26-103378",
+  "objet": "INFOGÉRANCE MUTUALISÉE",
+  "acheteur": "SITREVA",
+  "departements": [
+   "78"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-24T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103378",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-26"
+ },
+ "26-103592": {
+  "id": "26-103592",
+  "objet": "Fourniture et livraison de matériels informatiques pour le compte du Musée du Louvre.",
+  "acheteur": "MUSEE DU LOUVRE",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-24T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103592",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-26"
+ },
+ "26-103401": {
+  "id": "26-103401",
+  "objet": "PERSONNALISATION 4",
+  "acheteur": "COMUTITRES SAS",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-25",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103401",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-10-26"
+ },
+ "26-103587": {
+  "id": "26-103587",
+  "objet": "PRESTATIONS DE SERVICES DE SUPPORT, D’INGENIERIE ET DE GESTION DE PARC POUR LES ENVIRONNEMENTS POSTE DE TRAVAIL",
+  "acheteur": "44 CHU",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-10-25",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103587",
+  "type": "Services",
+  "procedure": "Procédure NC",
+  "categorie": "materiel",
+  "vu_le": "2026-10-26"
+ },
+ "26-103460": {
+  "id": "26-103460",
+  "objet": "Accord-cadre à bons de commande et à marchés subséquents relatif à l'accompagnement à l'automatisation des infrastructures informatiques",
+  "acheteur": "Conseil Départemental du Nord",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-25T15:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103460",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-26"
+ },
+ "26-103565": {
+  "id": "26-103565",
+  "objet": "Conception, fourniture, déploiement, mise en service, exploitation et maintenance d'un système billettique routier régional unifié",
+  "acheteur": "Région Hauts-de-France",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-10-25",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103565",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-10-26"
+ },
+ "26-103358": {
+  "id": "26-103358",
+  "objet": "Prestations d'infogérance pour le Théâtre National de l'Odéon",
+  "acheteur": "Théâtre National de l'Odéon",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-25T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103358",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-26"
+ },
+ "26-103536": {
+  "id": "26-103536",
+  "objet": "Mise en place d’un système d’informations (SI) pour le Service du Logement et de son Financement (SLF)",
+  "acheteur": "VILLE de PARIS - DFA - SDA",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-11-17T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103536",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-26"
+ },
+ "26-103544": {
+  "id": "26-103544",
+  "objet": "Acquisition, livraison, montage et installation de matériels ergonomiques pour la CPAM Lille-Douai",
+  "acheteur": "CPAM DE LILLE DOUAI",
+  "departements": [
+   "59",
+   "62"
+  ],
+  "parution": "2026-10-25",
+  "limite": "2026-10-30T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103544",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-26"
  },
  "26-102996": {
   "id": "26-102996",
