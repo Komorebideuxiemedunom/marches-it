@@ -1,4 +1,122 @@
 {
+ "26-103925": {
+  "id": "26-103925",
+  "objet": "Déploiement d'un outil opérationnel territorial dédié à la revitalisation de centres villes",
+  "acheteur": "Métropole du Grand Paris",
+  "departements": [
+   "75",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103925",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-27"
+ },
+ "26-103902": {
+  "id": "26-103902",
+  "objet": "Acquisition et mise en place d’un progiciel pour la gestion des agréments individuels des assistantes familiales et maternelles de la Ville de Paris.",
+  "acheteur": "VILLE de PARIS - DFA - SDA",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-12-01T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103902",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-27"
+ },
+ "26-103998": {
+  "id": "26-103998",
+  "objet": "Services d’hébergement et d’infogérance de type « cloud public » (IaaS et PaaS) pour les applications du système d'information de l’EPIDE",
+  "acheteur": "EPIDE",
+  "departements": [
+   "67",
+   "33",
+   "61",
+   "71",
+   "89",
+   "18",
+   "90",
+   "27",
+   "52"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103998",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-27"
+ },
+ "26-104265": {
+  "id": "26-104265",
+  "objet": "Infogérance",
+  "acheteur": "Somme Numérique",
+  "departements": [
+   "80"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-30T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104265",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-27"
+ },
+ "26-103995": {
+  "id": "26-103995",
+  "objet": "FOURNITURE, INSTALLATION, MISE EN SERVICE DE MATERIELS DE STERILISATION ET DE SUPERVISION QUALIFIES DANS LE CADRE DE RESTRUCTURATIONS DES SITES DE STERILISATION",
+  "acheteur": "29 CHRU",
+  "departements": [
+   "29"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-16T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103995",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-27"
+ },
+ "26-103869": {
+  "id": "26-103869",
+  "objet": "Acquisition de licences Microsoft pour les postes de travail et les serveurs physiques et virtualisés, ainsi que les prestations de service associées pour le réseau des chambres d'agriculture",
+  "acheteur": "CHAMBRES D'AGRICULTURE FRANCE",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-12-14T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103869",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-27"
+ },
+ "26-103941": {
+  "id": "26-103941",
+  "objet": "Fourniture, déploiement, hébergement et maintenance d'une solution de messagerie de santé sécurisée pour Bordeaux Métropole et prestations associées",
+  "acheteur": "Bordeaux Métropole",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-12-11T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103941",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-27"
+ },
  "26-103833": {
   "id": "26-103833",
   "objet": "Acces Internet, Telephonie Ip & Maintenance Reseau De La Pepiniere D'Entreprises Creativa",
@@ -13,6 +131,21 @@
   "procedure": "Procédure Ouverte",
   "categorie": "telecom",
   "vu_le": "2026-10-26"
+ },
+ "26-104102": {
+  "id": "26-104102",
+  "objet": "Cablage Des Reseaux Informatiques",
+  "acheteur": "Conseil départemental du Gard",
+  "departements": [
+   "30"
+  ],
+  "parution": "2026-10-26",
+  "limite": "2026-11-16T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104102",
+  "type": "Travaux",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-27"
  },
  "26-103069": {
   "id": "26-103069",
