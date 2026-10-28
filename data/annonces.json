@@ -1,4 +1,139 @@
 {
+ "26-104064": {
+  "id": "26-104064",
+  "objet": "Marché pour la fourniture complémentaire de licences, l’exploitation et la maintenance du LNS (LoRaWAN Network Server) du Finistère Smart Connect",
+  "acheteur": "Syndicat Départemental d’Energie et d’Equipement du Finistère",
+  "departements": [
+   "29"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-27T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104064",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-28"
+ },
+ "26-104175": {
+  "id": "26-104175",
+  "objet": "Prestations d'audits de cybersécurité - Ligne C du métro Toulousain",
+  "acheteur": "Tisséo Ingénierie, agissant au nom et pour le compte de Tisséo Collectivités",
+  "departements": [
+   "31"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-06T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104175",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "cyber",
+  "vu_le": "2026-10-28"
+ },
+ "26-104173": {
+  "id": "26-104173",
+  "objet": "EVOLUTION ET MISE A JOUR DE L'AUTOMATISME ET SUPERVISION DE LA GTE /GTD/BALISAGE DE L'AEROPORT GUADELOUPE MARYSE CONDE",
+  "acheteur": "Société Aéroportuaire Guadeloupe Pôle Caraibes (SAGPC)",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-10-28",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104173",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-10-28"
+ },
+ "26-104058": {
+  "id": "26-104058",
+  "objet": "Maintenance multi-technique",
+  "acheteur": "Somme Numérique",
+  "departements": [
+   "80"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-26T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104058",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-28"
+ },
+ "26-104355": {
+  "id": "26-104355",
+  "objet": "AO GIE Alliance PRO \"Gestion et saisie des activités\"",
+  "acheteur": "GIE ALLIANCE PROFESSIONNELLE",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-30T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104355",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-28"
+ },
+ "26-104319": {
+  "id": "26-104319",
+  "objet": "26MC0354AOO - MAINTENANCE HEBERGEMENT ET ACQUISITION DE PRESTATIONS ASSOCIEES A LA SOLUTION PUBLIK - CC",
+  "acheteur": "Toulouse Métropole",
+  "departements": [
+   "31"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-27T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104319",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-28"
+ },
+ "26-104840": {
+  "id": "26-104840",
+  "objet": "Mission de gestion et d'assistance des systèmes d'information et de formation en bureautique pour le Syndicat Mixte et Destination Baie de Somme",
+  "acheteur": "Régie Destination Baie de Somme",
+  "departements": [
+   "80"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-25T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104840",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-28"
+ },
+ "26-104059": {
+  "id": "26-104059",
+  "objet": "PRESTATIONS DE CONSEIL, D’EXPERTISE, DE DEVELOPPEMENT ET DE FORMATION SPECIFIQUE SUR LE LOGICIEL LIBRE CATALA",
+  "acheteur": "CNAF Etablissement Public",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-12-02T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104059",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-28"
+ },
+ "26-104252": {
+  "id": "26-104252",
+  "objet": "Fourniture de réactifs et consommables ainsi que la maintenance forfaitaire pour l'automate PHADIA CAP 250 et logiciels associés du CHU de la Réunion",
+  "acheteur": "CHU de la Réunion",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-30T05:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104252",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-28"
+ },
  "26-103925": {
   "id": "26-103925",
   "objet": "Déploiement d'un outil opérationnel territorial dédié à la revitalisation de centres villes",
@@ -116,6 +251,69 @@
   "procedure": "Procédure Ouverte",
   "categorie": "infra",
   "vu_le": "2026-10-27"
+ },
+ "26-104680": {
+  "id": "26-104680",
+  "objet": "Accès internet et interconnexions des sites distants",
+  "acheteur": "Mairie de Saint Amand Montrond",
+  "departements": [
+   "18"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-26T23:59",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104680",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-28"
+ },
+ "26-104720": {
+  "id": "26-104720",
+  "objet": "Accord-cadre - Fourniture, intégration et développement d'outils d'Ia générative, et évolution du système d'information",
+  "acheteur": "établissement Public Foncier De Nouvelle-Aquitaine",
+  "departements": [
+   "86"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104720",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-28"
+ },
+ "26-104521": {
+  "id": "26-104521",
+  "objet": "Mise à disposition d'un RSSI à temps partagé et prestations de cybersécurité",
+  "acheteur": "Syndicat Mixte des Systèmes d'Information (SII)",
+  "departements": [
+   "93",
+   "75",
+   "94",
+   "77"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-12T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104521",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "cyber",
+  "vu_le": "2026-10-28"
+ },
+ "26-104470": {
+  "id": "26-104470",
+  "objet": "Marché public de services de prestations informatiques externalisées et infogérance pour la commune des Essarts-le-Roi (78)",
+  "acheteur": "Commune des Essarts-Le-Roi",
+  "departements": [
+   "78"
+  ],
+  "parution": "2026-10-27",
+  "limite": "2026-11-24T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104470",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-28"
  },
  "26-103833": {
   "id": "26-103833",
