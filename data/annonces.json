@@ -1,4 +1,165 @@
 {
+ "26-104786": {
+  "id": "26-104786",
+  "objet": "PRESTATIONS DE MODERNISATION DE L’EQUIPEMENT INFORMATIQUE DES AGENTS DES LYCEES",
+  "acheteur": "Région Nouvelle-Aquitaine",
+  "departements": [
+   "33",
+   "40",
+   "47",
+   "64",
+   "19",
+   "23",
+   "87",
+   "16",
+   "17"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-12T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104786",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-29"
+ },
+ "26-105156": {
+  "id": "26-105156",
+  "objet": "Acquisition de matériels informatiques pour le SMPRR",
+  "acheteur": "Syndicat Mixte Parc Routier de la Réunion",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-19T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105156",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-10-29"
+ },
+ "26-104850": {
+  "id": "26-104850",
+  "objet": "QoS DROM 2027",
+  "acheteur": "Arcep",
+  "departements": [
+   "75",
+   "13",
+   "33",
+   "59",
+   "69",
+   "91",
+   "92",
+   "93",
+   "94"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-12-02T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104850",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-29"
+ },
+ "26-104809": {
+  "id": "26-104809",
+  "objet": "Système de vote électronique",
+  "acheteur": "CNRS Délégation Occitanie Ouest",
+  "departements": [
+   "31",
+   "92"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-23T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104809",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-29"
+ },
+ "26-104750": {
+  "id": "26-104750",
+  "objet": "Maintenance de la solution de sauvegarde informatique",
+  "acheteur": "Sénat",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-30T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104750",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-29"
+ },
+ "26-104570": {
+  "id": "26-104570",
+  "objet": "HEBERGEMENT, ADMINISTRATION TECHNIQUE ET FONCTIONNELLE DU SYSTEME BILLETTIQUE DES RESEAUX ROUTIERS REGIONAUX SUR LES TERRITOIRES DE LA GIRONDE ET DE LA CHARENTE-MARITIME",
+  "acheteur": "Région Nouvelle-Aquitaine",
+  "departements": [
+   "33",
+   "17"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104570",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-29"
+ },
+ "26-104936": {
+  "id": "26-104936",
+  "objet": "Services d’hébergement et d’infogérance de type « cloud public » (IaaS et PaaS) pour les applications du système d'information de l’EPIDE",
+  "acheteur": "EPIDE",
+  "departements": [
+   "67",
+   "33",
+   "61",
+   "71",
+   "89",
+   "18",
+   "90",
+   "27",
+   "52"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104936",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-29"
+ },
+ "26-104833": {
+  "id": "26-104833",
+  "objet": "Prestations de formations spécifiques ATSEP dédié aux outils de radiocommunication aéronautique de marque TELERAD",
+  "acheteur": "DGAC/DSNA/DSR/DO",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-29",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104833",
+  "type": "Services",
+  "procedure": "Procédure NC",
+  "categorie": "telecom",
+  "vu_le": "2026-10-29"
+ },
+ "26-104641": {
+  "id": "26-104641",
+  "objet": "FOURNITURE, INSTALLATION, MISE EN SERVICE DE MATERIELS DE STERILISATION ET DE SUPERVISION QUALIFIES DANS LE CADRE DE RESTRUCTURATIONS DES SITES DE STERILISATION",
+  "acheteur": "29 CHRU",
+  "departements": [
+   "29"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-16T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104641",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-29"
+ },
  "26-104064": {
   "id": "26-104064",
   "objet": "Marché pour la fourniture complémentaire de licences, l’exploitation et la maintenance du LNS (LoRaWAN Network Server) du Finistère Smart Connect",
@@ -133,6 +294,51 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-10-28"
+ },
+ "26-105020": {
+  "id": "26-105020",
+  "objet": "Conception, développement et maintenance d'une plateforme informatique dans le cadre de l'étude PRE-VISIT.",
+  "acheteur": "Assistance Publique des Hôpitaux de Paris, GHU Université Paris Cité Hôpital Hôtel-Dieu",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-12-02T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105020",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-29"
+ },
+ "26-105130": {
+  "id": "26-105130",
+  "objet": "Accompagnement du projet Gouvernance des données et trajectoire SI",
+  "acheteur": "ENSMIS",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-30T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105130",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-29"
+ },
+ "26-105079": {
+  "id": "26-105079",
+  "objet": "Maintenance de l’infrastructure réseau et WIFI de l’Unité de Valorisation Energétique de Bourogne",
+  "acheteur": "SERTRID",
+  "departements": [
+   "90"
+  ],
+  "parution": "2026-10-28",
+  "limite": "2026-11-25T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105079",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-10-29"
  },
  "26-103925": {
   "id": "26-103925",
