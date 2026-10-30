@@ -1,4 +1,132 @@
 {
+ "26-105287": {
+  "id": "26-105287",
+  "objet": "PRESTATIONS DE MAINTENANCE ET D’HEBERGEMENT RELATIVES AUX APPLICATIONS SITE INTERNET AMF ET AMF PROTECT EPARGNE DATE LIMITE DE REMISE DES OFFRES : 21 DECEMBRE",
+  "acheteur": "AMF..",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2026-12-21T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105287",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105289": {
+  "id": "26-105289",
+  "objet": "ACCORD-CADRE RELATIF AUX PRESTATIONS DE TIERCE MAINTENANCE APPLICATIVE DU PORTAIL PREVAIR",
+  "acheteur": "INERIS",
+  "departements": [
+   "60"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2027-01-19T17:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105289",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105048": {
+  "id": "26-105048",
+  "objet": "EVOLUTION ET MISE A JOUR DE L'AUTOMATISME ET SUPERVISION DE LA GTE /GTD/BALISAGE DE L'AEROPORT GUADELOUPE MARYSE CONDE",
+  "acheteur": "Société Aéroportuaire Guadeloupe Pôle Caraibes (SAGPC)",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-10-30",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105048",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105683": {
+  "id": "26-105683",
+  "objet": "Equipements, installation et maintenance des matériels RFID et électromagnétique de sécurisation des collections des bibliothèques du Service Commun de Documentation",
+  "acheteur": "Université Lyon 1",
+  "departements": [
+   "1",
+   "38",
+   "69"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2026-11-28T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105683",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105711": {
+  "id": "26-105711",
+  "objet": "Fourniture, le déploiement, la maintenance et l'accompagnement d'une solution CRM et de marketing automation",
+  "acheteur": "HAUTS-DE-FRANCE TOURISME",
+  "departements": [
+   "80",
+   "2",
+   "59",
+   "60",
+   "62"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2026-11-16T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105711",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105386": {
+  "id": "26-105386",
+  "objet": "INFOGERANCE DES SYSTÈMES D'INFORMATION",
+  "acheteur": "ETBT du Château de Versailles",
+  "departements": [
+   "78",
+   "75"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2026-12-18T09:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105386",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-10-30"
+ },
+ "26-105150": {
+  "id": "26-105150",
+  "objet": "Reprise, développement, évolutions, hébergement et maintenance en conditions opérationnelles de l’offre WebSite Factory",
+  "acheteur": "Météo-France",
+  "departements": [
+   "94",
+   "31"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2027-01-21T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105150",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
+ "26-105271": {
+  "id": "26-105271",
+  "objet": "TMA (hors HR Access) des applications du CISIRH et prestations associées",
+  "acheteur": "CISIRH",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-30",
+  "limite": "2026-12-15T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105271",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
+ },
  "26-104786": {
   "id": "26-104786",
   "objet": "PRESTATIONS DE MODERNISATION DE L’EQUIPEMENT INFORMATIQUE DES AGENTS DES LYCEES",
@@ -159,6 +287,36 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-10-29"
+ },
+ "26-105484": {
+  "id": "26-105484",
+  "objet": "Contrat de maintenance licences et renouvellement maintenance Bo Sap",
+  "acheteur": "Bureau de Recherche en Géologie Minière (Brgm)",
+  "departements": [
+   "45"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-23T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105484",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-10-30"
+ },
+ "26-105346": {
+  "id": "26-105346",
+  "objet": "Prestations informatiques de maintenance évolutive et d'hébergement sécurisé du site visitvar.fr",
+  "acheteur": "Adt Var Tourisme",
+  "departements": [
+   "83"
+  ],
+  "parution": "2026-10-29",
+  "limite": "2026-11-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105346",
+  "type": "Services",
+  "procedure": "Procédure Restreinte",
+  "categorie": "web",
+  "vu_le": "2026-10-30"
  },
  "26-104064": {
   "id": "26-104064",
