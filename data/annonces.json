@@ -1,4 +1,49 @@
 {
+ "26-105761": {
+  "id": "26-105761",
+  "objet": "Sécurisation du Système d'Information - Relance du lot n°1 : Remplacement des serveurs de virtualisation et création d'une baie redondée",
+  "acheteur": "Commune de Petite-Ile",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-12-04T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105761",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-01"
+ },
+ "26-105645": {
+  "id": "26-105645",
+  "objet": "FOURNITURE, INSTALLATION, MISE EN SERVICE DE MATERIELS DE STERILISATION ET DE SUPERVISION QUALIFIES DANS LE CADRE DE RESTRUCTURATIONS DES SITES DE STERILISATION",
+  "acheteur": "29 CHRU",
+  "departements": [
+   "29"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-11-16T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105645",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-01"
+ },
+ "26-105467": {
+  "id": "26-105467",
+  "objet": "Accord-cadre relatif à la mise à disposition de solutions en mode SaaS pour le système d’information métier de l’Inrap, à leurs mises en œuvre et aux prestations associées",
+  "acheteur": "Inrap",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-10-31",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105467",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-01"
+ },
  "26-105287": {
   "id": "26-105287",
   "objet": "PRESTATIONS DE MAINTENANCE ET D’HEBERGEMENT RELATIVES AUX APPLICATIONS SITE INTERNET AMF ET AMF PROTECT EPARGNE DATE LIMITE DE REMISE DES OFFRES : 21 DECEMBRE",
