@@ -1,4 +1,49 @@
 {
+ "26-106020": {
+  "id": "26-106020",
+  "objet": "ACHATS D'EQUIPEMENTS AUDIO VISUELS ET PRESTATIONS D'INTEGRATION ASSOCIEES",
+  "acheteur": "CANUT",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-02",
+  "limite": "2026-12-01T11:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106020",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-02"
+ },
+ "26-106193": {
+  "id": "26-106193",
+  "objet": "Formation Informatique Et Bureautique Suite Libre Office Pour Les Agents De La Commune D'Echirolles Marché passé en groupement de commande entre la Ville d'échirolles, le Ccas",
+  "acheteur": "Ville d'échirolles",
+  "departements": [
+   "38"
+  ],
+  "parution": "2026-11-02",
+  "limite": "2026-12-07T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106193",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-02"
+ },
+ "26-106229": {
+  "id": "26-106229",
+  "objet": "Fourniture et services d'un système d'information de gestion clientèle GRD & Fournisseur_2027",
+  "acheteur": "Régie municipale électrique",
+  "departements": [
+   "64"
+  ],
+  "parution": "2026-11-02",
+  "limite": "2026-11-20T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106229",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "infra",
+  "vu_le": "2026-11-02"
+ },
  "26-105761": {
   "id": "26-105761",
   "objet": "Sécurisation du Système d'Information - Relance du lot n°1 : Remplacement des serveurs de virtualisation et création d'une baie redondée",
@@ -28,6 +73,84 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-11-01"
+ },
+ "26-105954": {
+  "id": "26-105954",
+  "objet": "Fourniture, installation, mise en service de matériels de stérilisation et de supervision qualifiés dans le cadre de restructurations des sites de stérilisation",
+  "acheteur": "29 CHRU",
+  "departements": [
+   "29"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-12-02T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105954",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-02"
+ },
+ "26-105994": {
+  "id": "26-105994",
+  "objet": "Acquisition d'une solution de gestion des Informations Produits pour la Centrale d'achat régionale",
+  "acheteur": "Conseil régional Auvergne-Rhône-Alpes",
+  "departements": [
+   "1",
+   "3",
+   "7",
+   "15"
+  ],
+  "parution": "2026-11-01",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105994",
+  "type": "Fournitures",
+  "procedure": "Procédure Négociée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-02"
+ },
+ "26-105802": {
+  "id": "26-105802",
+  "objet": "Fourniture, mise en œuvre et maintenance d’une solution de gestion de la relation contact/client (CRM) avec marketing automation",
+  "acheteur": "EPA / Musée de l'Armée",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-12-04T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105802",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-02"
+ },
+ "26-105857": {
+  "id": "26-105857",
+  "objet": "Fourniture d'équipements informatiques, de solutions logicielles, d'abonnements Cloud et prestations de services associées",
+  "acheteur": "COEUR ESSONNE AGGLOMERATION",
+  "departements": [
+   "91"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-11-30T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105857",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-02"
+ },
+ "26-105786": {
+  "id": "26-105786",
+  "objet": "Système de gestion informatique centralisée des données issues d’une chaine de post production d’images et de sons et réalisations des prestations associées.",
+  "acheteur": "Centre nationale du cinéma",
+  "departements": [
+   "78"
+  ],
+  "parution": "2026-11-01",
+  "limite": "2026-12-08T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105786",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-02"
  },
  "26-105467": {
   "id": "26-105467",
