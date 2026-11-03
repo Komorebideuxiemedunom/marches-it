@@ -1,4 +1,165 @@
 {
+ "26-106077": {
+  "id": "26-106077",
+  "objet": "Tierce Maintenance du système d’information Décisionnel mutualisé (TMD)",
+  "acheteur": "Agence de l'eau Seine Normandie",
+  "departements": [
+   "92",
+   "31",
+   "45",
+   "57",
+   "59",
+   "69"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2027-01-14T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106077",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106132": {
+  "id": "26-106132",
+  "objet": "G6D0031RH - Marché de fourniture, mise en oeuvre et maintenance d'une solution de Protection des Travailleurs Isolés (PTI) pour les agents",
+  "acheteur": "Montpellier Méditerranée Métropole",
+  "departements": [
+   "34"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2027-01-12T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106132",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106277": {
+  "id": "26-106277",
+  "objet": "TMA LOGMI",
+  "acheteur": "MINISTERE DE l'INTERIEUR",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-04T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106277",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106531": {
+  "id": "26-106531",
+  "objet": "Acquisition et mise en place d'équipements de sonorisation et d'affichage numérique au parc Chédeville",
+  "acheteur": "COM COM du Liancourtois Vallée Dorée",
+  "departements": [
+   "60"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-11-27T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106531",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-03"
+ },
+ "26-106190": {
+  "id": "26-106190",
+  "objet": "EVOLUTION, MAINTENANCE ET ENTRETIEN DU RESEAU DE VIDEOPROTECTION",
+  "acheteur": "VILLE DE SAINTE-MAXIME",
+  "departements": [
+   "83"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-14T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106190",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106116": {
+  "id": "26-106116",
+  "objet": "Tierce Maintenance Applicative (TMA), évolutive (TME) et prestations associées des applications de dépôt des annonces économiques de la DILA",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106116",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106221": {
+  "id": "26-106221",
+  "objet": "Reprise de l’existant, la maintenance corrective et évolutive de l’application SOLLEN du médiateur national de l’énergie.",
+  "acheteur": "Médiateur national de l'énergie",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-11T17:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106221",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106050": {
+  "id": "26-106050",
+  "objet": "Maintenance applicative corrective et évolutive de l’application SINC-IRA",
+  "acheteur": "Institut Régional d'Administration de Lyon (IRA de Lyon)",
+  "departements": [
+   "69",
+   "20B",
+   "44",
+   "57",
+   "59",
+   "75",
+   "92"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-11-12T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106050",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106147": {
+  "id": "26-106147",
+  "objet": "Archivage, GED-SAE",
+  "acheteur": "CANUT",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-04T16:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106147",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
+ "26-106124": {
+  "id": "26-106124",
+  "objet": "Tierce maintenance applicative des applications et des sites webs des Services du Premier Ministre",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-11-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106124",
+  "type": "Services",
+  "procedure": "Procédure NC",
+  "categorie": "web",
+  "vu_le": "2026-11-03"
+ },
  "26-106020": {
   "id": "26-106020",
   "objet": "ACHATS D'EQUIPEMENTS AUDIO VISUELS ET PRESTATIONS D'INTEGRATION ASSOCIEES",
