@@ -1,4 +1,79 @@
 {
+ "26-106510": {
+  "id": "26-106510",
+  "objet": "Acquisition de licences de logiciels, abonnements et maintenances associées",
+  "acheteur": "Conseil départemental du Cantal",
+  "departements": [
+   "15"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-12-04T10:59",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106510",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-04"
+ },
+ "26-106601": {
+  "id": "26-106601",
+  "objet": "Mise en place d'une solution de dématérialisation et de correction en ligne sécurisée pour le Concours Commun Mines-Ponts et la procédure d'admission sur titre GEI-UNIV.",
+  "acheteur": "GIP CONCOURS COMMUN MINES PONTS",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-12-14T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106601",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-04"
+ },
+ "26-106694": {
+  "id": "26-106694",
+  "objet": "Accord-cadre relatif à la mise à disposition de solutions en mode SaaS pour le système d’information métier de l’Inrap, à leurs mises en œuvre et aux prestations associées",
+  "acheteur": "Inrap",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-04",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106694",
+  "type": "Services",
+  "procedure": "Procédure Restreinte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-04"
+ },
+ "26-107006": {
+  "id": "26-107006",
+  "objet": "ÉVOLUTIONS SUR L’APPLICATION MOBILE SYTGEOMAPPER ET L’API DE FONCTIONS CARTOGRAPHIQUES ASSOCIÉE",
+  "acheteur": "INERIS",
+  "departements": [
+   "60"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-11-19T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107006",
+  "type": "Services",
+  "procedure": "Procédure NC",
+  "categorie": "web",
+  "vu_le": "2026-11-04"
+ },
+ "26-107189": {
+  "id": "26-107189",
+  "objet": "Diagnostics de modules d'ultrafiltration usagés pour les usines de l'Haÿ-les-Roses et de Saint-Cloud",
+  "acheteur": "Eau De Paris",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-12-17T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107189",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-04"
+ },
  "26-106077": {
   "id": "26-106077",
   "objet": "Tierce Maintenance du système d’information Décisionnel mutualisé (TMD)",
@@ -159,6 +234,21 @@
   "procedure": "Procédure NC",
   "categorie": "web",
   "vu_le": "2026-11-03"
+ },
+ "26-106977": {
+  "id": "26-106977",
+  "objet": "Maintenance des scanners des plates-formes d’acquisition de données installées dans les établissements de services informatique (ESI) de la direction générale des finances publiques (DGFIP).",
+  "acheteur": "D.R.S.",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-03",
+  "limite": "2026-12-17T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106977",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-04"
  },
  "26-106020": {
   "id": "26-106020",
