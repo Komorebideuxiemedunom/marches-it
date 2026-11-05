@@ -1,4 +1,246 @@
 {
+ "26-107575": {
+  "id": "26-107575",
+  "objet": "CERTIFICATS ELECTRONIQUES",
+  "acheteur": "Conseil départemental d'Eure-et-Loir",
+  "departements": [
+   "28"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107575",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "materiel",
+  "vu_le": "2026-11-05"
+ },
+ "26-107621": {
+  "id": "26-107621",
+  "objet": "ACQUISITION ET MAINTENANCE DE BORNES WIFI ET ACCESSOIRES ASSOCIES",
+  "acheteur": "CCI 35",
+  "departements": [
+   "35"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-07T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107621",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-05"
+ },
+ "26-106997": {
+  "id": "26-106997",
+  "objet": "Relance lot n°2 \"Mise en œuvre de démarches UX\" - Marché d'accompagnement à la mise en œuvre du Plan de Transformation Numérique",
+  "acheteur": "DEPARTEMENT DE LA REUNION",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-08T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106997",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107049": {
+  "id": "26-107049",
+  "objet": "Acquisition, maintenance et prestations associées d'un logiciel de gestion de portefeuille projets",
+  "acheteur": "Collectivité européenne d'Alsace",
+  "departements": [
+   "67",
+   "68"
+  ],
+  "parution": "2026-11-05",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107049",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-05"
+ },
+ "26-106967": {
+  "id": "26-106967",
+  "objet": "Accord-cadre mono-attributaire portant sur des prestations de tierce maintenance applicative du site internet institutionnel d'Audencia",
+  "acheteur": "AUDENCIA EESC",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-11-05",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106967",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107274": {
+  "id": "26-107274",
+  "objet": "Mise en œuvre et maintenance de sites d'intranets et de portails métier",
+  "acheteur": "CNRS Délégation Occitanie Ouest",
+  "departements": [
+   "31",
+   "92"
+  ],
+  "parution": "2026-11-05",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107274",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107560": {
+  "id": "26-107560",
+  "objet": "Exigences fonctionnelles « mes-démarches » Hébergement, maintenance et support des briques open source : Authentic, Combo, w.c.s., Passerelle, Chrono, Hobo et Lingo",
+  "acheteur": "Avignon Université",
+  "departements": [
+   "84"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-11-30T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107560",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107146": {
+  "id": "26-107146",
+  "objet": "FOURNITURE DE SERVICES DE PROTECTION DU PATRIMOINE INFORMATIONNEL LIÉS À LA CONFORMITÉ RÉGLEMENTAIRE ET À LA SÉCURITÉ DES DONNÉES",
+  "acheteur": "CANUT",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-18T16:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107146",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107075": {
+  "id": "26-107075",
+  "objet": "Fourniture de solutions et équipements informatiques pour le compte des adhérents de CADI",
+  "acheteur": "Centrale d'Achats Durables et Innovants",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-11T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107075",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-05"
+ },
+ "26-107234": {
+  "id": "26-107234",
+  "objet": "Accompagnement à la sécurisation, à la modernisation et à la gouvernance de l'environnement Microsoft 365 de l'association Action Sociale Finance Restauration (ASFR)",
+  "acheteur": "ASFR - ACTION SOCIALE FINANCES RESTAURATION",
+  "departements": [
+   "75",
+   "91",
+   "93",
+   "92"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-11-17T09:59",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107234",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-05"
+ },
+ "26-107619": {
+  "id": "26-107619",
+  "objet": "ACCORD-CADRE A BONS DE COMMANDE POUR LA MISE A DISPOSITION D'UNE SOLUTION DE GESTION DES MARCHES PUBLICS POUR LA CINOR",
+  "acheteur": "COMMUNAUTE INTERCOMMUNALE NORD REUNION",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-11-30T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107619",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-106889": {
+  "id": "26-106889",
+  "objet": "Mise à disposition d’un flux prépresse automatisé de la chaîne graphique de la Direction de l’information légale et administrative (DILA)",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106889",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-106893": {
+  "id": "26-106893",
+  "objet": "Modernisation des applicatifs métiers utilisés par régie Corrèze autonomie (2026AFF049)",
+  "acheteur": "Conseil Départemental de la Corrèze",
+  "departements": [
+   "19"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-15T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-106893",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-05"
+ },
+ "26-107004": {
+  "id": "26-107004",
+  "objet": "Services de télécommunications voix et données: téléphonie mobile, usages voix et données.",
+  "acheteur": "COMMUNE DE SAINT-LEU",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-10T08:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107004",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-05"
+ },
+ "26-107063": {
+  "id": "26-107063",
+  "objet": "Conception, développement, maintien en condition opérationnelle et évolution des produits numériques de l’administration numérique de la DILA",
+  "acheteur": "SPM - DSAF - BCP",
+  "departements": [
+   "75",
+   "78",
+   "91",
+   "92",
+   "93",
+   "95"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107063",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-05"
+ },
  "26-106510": {
   "id": "26-106510",
   "objet": "Acquisition de licences de logiciels, abonnements et maintenances associées",
@@ -73,6 +315,40 @@
   "procedure": "Procédure Ouverte",
   "categorie": "infra",
   "vu_le": "2026-11-04"
+ },
+ "26-107412": {
+  "id": "26-107412",
+  "objet": "Aide aux utilisateurs (support de niveau 1) ; accompagnement des évolutions nécessaires d’OASIS ;",
+  "acheteur": "Conservatoire national supérieur de musique et danse de Paris",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "92",
+   "93"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-11-30T18:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107412",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-05"
+ },
+ "26-107299": {
+  "id": "26-107299",
+  "objet": "Publications dans le cadre de l'ouverture du musée du Grand Siècle à Saint-Cloud",
+  "acheteur": "Département des Hauts-de-Seine",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-11-04",
+  "limite": "2026-12-02T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107299",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-05"
  },
  "26-106077": {
   "id": "26-106077",
