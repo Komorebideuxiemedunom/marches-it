@@ -1,4 +1,122 @@
 {
+ "26-107728": {
+  "id": "26-107728",
+  "objet": "FOURNITURE ET PRESTATIONS ASSOCIÉES DE PETITS MATÉRIELS INFORMATIQUES ET ACCESSOIRES POUR LE DÉPARTEMENT DES BOUCHES-DU-RHÔNE",
+  "acheteur": "Conseil départemental des Bouches-du-Rhône",
+  "departements": [
+   "13"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107728",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-06"
+ },
+ "26-107505": {
+  "id": "26-107505",
+  "objet": "Hébergement, maintenance curative et évolutive du site Internet PASS Autocar et du logiciel Autogare",
+  "acheteur": "VILLE de PARIS - DFA - SDA",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-06",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107505",
+  "type": "Services",
+  "procedure": "Procédure Restreinte",
+  "categorie": "web",
+  "vu_le": "2026-11-06"
+ },
+ "26-107447": {
+  "id": "26-107447",
+  "objet": "Acquisition de Ressources numériques, de Manuels scolaires numériques et papier, et d'un Métaplayer agrégateur et distributeur de ressources pour la Région Île-de-France",
+  "acheteur": "Région Ile de France",
+  "departements": [
+   "93",
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-11T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107447",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-06"
+ },
+ "26-108185": {
+  "id": "26-108185",
+  "objet": "Prestations de location et d'hébergement d'une solution TV live et de réalisation de live sur les réseaux sociaux",
+  "acheteur": "Région Auvergne-Rhône-Alpes",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-10T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108185",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-06"
+ },
+ "26-107327": {
+  "id": "26-107327",
+  "objet": "Projet MMXP-Multimodal Expérience - Lot 2-Marché public numérique (conception, fourniture, développement, intégration et mise en service de solutions et dispositifs numériques interactifs) sur le s...",
+  "acheteur": "CCI de région Hauts-de-France",
+  "departements": [
+   "59",
+   "62"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-08T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107327",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-06"
+ },
+ "26-107506": {
+  "id": "26-107506",
+  "objet": "ORGANISATION DE L’ELECTION DES MEMBRES DU CONSEIL D’ADMINISTRATION DE LA CAMIEG (VOTE ELECTRONIQUE ET VOTE PAR CORRESPONDANCE/VPC)",
+  "acheteur": "CAMIEG",
+  "departements": [
+   "75",
+   "93",
+   "31"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-15T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107506",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-06"
+ },
+ "26-108259": {
+  "id": "26-108259",
+  "objet": "INFRASTRUCTURES ET SYSTEMES NUMERIQUES / COMMANDE PUBLIQUE / CAISSE DES ECOLES - Solution de plateforme externe dedématérialisation des marchés publics",
+  "acheteur": "Commune d'Hyères",
+  "departements": [
+   "83",
+   "4",
+   "5",
+   "6"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-02T16:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108259",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-06"
+ },
  "26-107575": {
   "id": "26-107575",
   "objet": "CERTIFICATS ELECTRONIQUES",
@@ -240,6 +358,51 @@
   "procedure": "Procédure Ouverte",
   "categorie": "infra",
   "vu_le": "2026-11-05"
+ },
+ "26-107947": {
+  "id": "26-107947",
+  "objet": "Marché public de services de conseil et d’expertise en sécurité des systèmes d’information et cybersécurité du Fonds de Garantie des Dépôts et de Résolution (FGDR)",
+  "acheteur": "FGDR - Fonds de Garantie des Dépôts et de Résolution",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107947",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "cyber",
+  "vu_le": "2026-11-06"
+ },
+ "26-107814": {
+  "id": "26-107814",
+  "objet": "Marché global de réalisation, exploitation et maintenance des systèmes de télécommunications et de leurs environnements pour le CH MAZURELLE, Etablissement partie du GHT85",
+  "acheteur": "CHD VENDEE, Etablissement support du GHT85",
+  "departements": [
+   "85"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2027-01-25T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107814",
+  "type": "Travaux",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-06"
+ },
+ "26-107787": {
+  "id": "26-107787",
+  "objet": "2026/03 - Fournitures de matériel informatique pour le CDG68",
+  "acheteur": "CENTRE DE GESTION FPT DU HAUT-RHIN",
+  "departements": [
+   "68"
+  ],
+  "parution": "2026-11-05",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107787",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-06"
  },
  "26-106510": {
   "id": "26-106510",
