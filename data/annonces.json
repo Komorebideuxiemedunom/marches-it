@@ -117,6 +117,73 @@
   "categorie": "logiciel",
   "vu_le": "2026-11-06"
  },
+ "26-108388": {
+  "id": "26-108388",
+  "objet": "Modernisation des logiciels métiers mutualisés",
+  "acheteur": "CC du Pays d&#039;Alésia et de la Seine",
+  "departements": [
+   "21"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2027-01-11T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108388",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-07"
+ },
+ "26-108525": {
+  "id": "26-108525",
+  "objet": "Acquisition d'une solution Saas de Gestion du temps de travail pour le Ght",
+  "acheteur": "Centre Hospitalier De Dieppe",
+  "departements": [
+   "76"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-11-27T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108525",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-07"
+ },
+ "26-108559": {
+  "id": "26-108559",
+  "objet": "26106-I Réalisation de dispositifs multimédias pour l'exposition \"INSECTES\" à la Grande galerie de l'Evolution (MNHN)",
+  "acheteur": "Museum National d'Histoire Naturelle",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108559",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "web",
+  "vu_le": "2026-11-07"
+ },
+ "26-108599": {
+  "id": "26-108599",
+  "objet": "Acquisition de 3 simulateurs de conduite de chariots élévateurs",
+  "acheteur": "LYCEE POLYVALENT CLEMENT ADER",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-06",
+  "limite": "2026-11-25T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108599",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-07"
+ },
  "26-107575": {
   "id": "26-107575",
   "objet": "CERTIFICATS ELECTRONIQUES",
