@@ -1,4 +1,141 @@
 {
+ "26-108210": {
+  "id": "26-108210",
+  "objet": "Prestations de développements et de maintenance des applications informatiques du programme « MesAides » en mode agile",
+  "acheteur": "Centre national du cinéma et de l’image animée",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-18T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108210",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-08"
+ },
+ "26-108230": {
+  "id": "26-108230",
+  "objet": "Prolongation de la maintenance du parc d'impression multifonction avec maintenance, logiciels d'administration, supervision du parc et gestion des impressions",
+  "acheteur": "Ville d'ANNECY",
+  "departements": [
+   "74"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108230",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-08"
+ },
+ "26-108242": {
+  "id": "26-108242",
+  "objet": "Fourniture de troncs de collecte IP, d’accès primaires (T2), de groupements d’accès de base (T0) en France métropolitaine, acheminement des communications téléphoniques associées",
+  "acheteur": "Ministère de l'action et des comptes publics - Direction des achats de l’État",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-11-12T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108242",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-08"
+ },
+ "26-107858": {
+  "id": "26-107858",
+  "objet": "FOURNITURE D'UNE SOLUTION D'INFRASTRUCTURES DE VIRTUALISATION HEBERGEES ET SERVICES ASSOCIES",
+  "acheteur": "Syndicat des énergies et de l'aménagement numérique de la Haute-Savoie (SYANE)",
+  "departements": [
+   "74"
+  ],
+  "parution": "2026-11-07",
+  "limite": "2026-12-02T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107858",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-08"
+ },
+ "26-107779": {
+  "id": "26-107779",
+  "objet": "Fourniture, intégration, exploitation, administration, supervision, MCO, MCS et évolution du socle d'infrastructures des SIC du SMA",
+  "acheteur": "CSMA.",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-07",
+  "limite": "2026-11-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107779",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-08"
+ },
+ "26-107802": {
+  "id": "26-107802",
+  "objet": "PLATEFORME COLLABORATIVE",
+  "acheteur": "UNIVERSITE DE CAEN NORMANDIE",
+  "departements": [
+   "14",
+   "50",
+   "61"
+  ],
+  "parution": "2026-11-07",
+  "limite": "2026-12-08T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107802",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-08"
+ },
+ "26-107786": {
+  "id": "26-107786",
+  "objet": "Fourniture d’une solution robotisée de contrôle non destructif (CND) multi-physique pour la plateforme ICNDE de l’université de Bordeaux, ainsi que des fournitures et prestations associées",
+  "acheteur": "UNIVERSITE DE BORDEAUX",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-07",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107786",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-08"
+ },
+ "26-107852": {
+  "id": "26-107852",
+  "objet": "Maintenance et acquisition de licences BO SAP et prestations de montée de version",
+  "acheteur": "Région Hauts-de-France",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-07",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107852",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-08"
+ },
+ "26-107978": {
+  "id": "26-107978",
+  "objet": "Fourniture, intégration et infogérance d'une architecture dédiée aux objets connectés",
+  "acheteur": "Département du Puy-de-Dôme",
+  "departements": [
+   "63"
+  ],
+  "parution": "2026-11-07",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-107978",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "infra",
+  "vu_le": "2026-11-08"
+ },
  "26-107728": {
   "id": "26-107728",
   "objet": "FOURNITURE ET PRESTATIONS ASSOCIÉES DE PETITS MATÉRIELS INFORMATIQUES ET ACCESSOIRES POUR LE DÉPARTEMENT DES BOUCHES-DU-RHÔNE",
