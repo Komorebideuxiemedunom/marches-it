@@ -1,4 +1,34 @@
 {
+ "26-108664": {
+  "id": "26-108664",
+  "objet": "Renouvellement du logiciel et du matériel de gestion et de contrôle d'accès des centres aquatiques intercommunaux",
+  "acheteur": "Ca Caux Seine Agglo",
+  "departements": [
+   "76"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-12-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108664",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-09"
+ },
+ "26-108657": {
+  "id": "26-108657",
+  "objet": "Mise en place d'un logiciel de gestion du service prévention et de santé au travail des agents de l'Université Bordeaux Montaigne (UBM) et de l'Institut National Polytechnique (INP) de Bordeaux",
+  "acheteur": "UNIVERSITE BORDEAUX MONTAIGNE",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-11-30T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108657",
+  "type": "Fournitures",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-09"
+ },
  "26-108210": {
   "id": "26-108210",
   "objet": "Prestations de développements et de maintenance des applications informatiques du programme « MesAides » en mode agile",
@@ -43,6 +73,87 @@
   "procedure": "Procédure Ouverte",
   "categorie": "telecom",
   "vu_le": "2026-11-08"
+ },
+ "26-108566": {
+  "id": "26-108566",
+  "objet": "Prestations de service de tierce maintenance applicative et d'hébergement des sites internet pour répondre aux besoins de l'Établissement public du Palais de la Porte Dorée",
+  "acheteur": "Établissement public du Palais de la Porte Dorée",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-14T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108566",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-09"
+ },
+ "26-108403": {
+  "id": "26-108403",
+  "objet": "FOURNITURE, INSTALLATION ET MAINTENANCE D'UNE SOLUTION D'INTERCONNEXION DES SITES DU SMGEAG",
+  "acheteur": "Syndicat Mixte de Gestion de l'Eau et de l'Assainissement de Guadeloupe",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-11-16T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108403",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-09"
+ },
+ "26-108442": {
+  "id": "26-108442",
+  "objet": "26MC0365AOO - Maintenance, assistance et acquisition de licences, de nouveaux modules et de prestations associées du logiciel ETL «FME» - ON PREMISE - CC-SA",
+  "acheteur": "Toulouse Métropole",
+  "departements": [
+   "31"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108442",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-09"
+ },
+ "26-108413": {
+  "id": "26-108413",
+  "objet": "Fourniture et gestion de certificats électroniques RGS**",
+  "acheteur": "Syndicat Mixte AGEDI",
+  "departements": [
+   "15",
+   "75"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-10T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108413",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-09"
+ },
+ "26-108581": {
+  "id": "26-108581",
+  "objet": "Marché d’infogérance réseau, sécurité et surveillance cybersécurité (SOC)",
+  "acheteur": "OPCO SANTE",
+  "departements": [
+   "13",
+   "31",
+   "33",
+   "69",
+   "75",
+   "92"
+  ],
+  "parution": "2026-11-08",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108581",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "cyber",
+  "vu_le": "2026-11-09"
  },
  "26-107858": {
   "id": "26-107858",
