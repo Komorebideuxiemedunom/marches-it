@@ -1,4 +1,145 @@
 {
+ "26-109309": {
+  "id": "26-109309",
+  "objet": "Accord cadre à bons de commande relatif à l'acquisition d'un logiciel de gestion des identités et des accès et prestations associées - Iam",
+  "acheteur": "Mairie de Perpignan",
+  "departements": [
+   "66"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109309",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-10"
+ },
+ "26-109325": {
+  "id": "26-109325",
+  "objet": "Concession de services pour la gestion et l'exploitation de services de télévision et de téléphonie des patients du CHU Caen Normandie",
+  "acheteur": "14 CHRU",
+  "departements": [
+   "14"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-10T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109325",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-10"
+ },
+ "26-108655": {
+  "id": "26-108655",
+  "objet": "Ressources en ligne pour la bibliothèque numérique métropolitaine - 4 lots",
+  "acheteur": "Métropole européenne de Lille",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-11T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108655",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-10"
+ },
+ "26-108829": {
+  "id": "26-108829",
+  "objet": "Services d’hébergement et d’infogérance de type « cloud public » (IaaS et PaaS) pour les applications du système d'information de l’EPIDE",
+  "acheteur": "EPIDE",
+  "departements": [
+   "67",
+   "33",
+   "61",
+   "71",
+   "89",
+   "18",
+   "90",
+   "27",
+   "52"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108829",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-10"
+ },
+ "26-109140": {
+  "id": "26-109140",
+  "objet": "Réalisation d'audits de conformité en matière d'accessibilité numérique des sites internet, intranet, extranets, applications web et applications mobiles de la collectivité ainsi q",
+  "acheteur": "Rennes Métropole",
+  "departements": [
+   "35"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-14T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109140",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-10"
+ },
+ "26-108722": {
+  "id": "26-108722",
+  "objet": "Mise à disposition d’un flux prépresse automatisé de la chaîne graphique de la Direction de l’information légale et administrative (DILA)",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108722",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-10"
+ },
+ "26-108857": {
+  "id": "26-108857",
+  "objet": "Maintenance applicative corrective et évolutive de l’application SINC-IRA",
+  "acheteur": "Institut Régional d'Administration de Lyon (IRA de Lyon)",
+  "departements": [
+   "69",
+   "20B",
+   "44",
+   "57",
+   "59",
+   "75",
+   "92"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-02T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108857",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-10"
+ },
+ "26-109310": {
+  "id": "26-109310",
+  "objet": "Acquisition d'une solution de gestion, diffusion et d'hébergement d'une chaine TV en SAAS",
+  "acheteur": "VILLE DE LIMOGES",
+  "departements": [
+   "87"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-07T12:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109310",
+  "type": "Fournitures",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-10"
+ },
  "26-108664": {
   "id": "26-108664",
   "objet": "Renouvellement du logiciel et du matériel de gestion et de contrôle d'accès des centres aquatiques intercommunaux",
@@ -28,6 +169,66 @@
   "procedure": "Procédure Adaptée",
   "categorie": "logiciel",
   "vu_le": "2026-11-09"
+ },
+ "26-109087": {
+  "id": "26-109087",
+  "objet": "PRESTATIONS D'ASSISTANCE, DE MAINTENANCE ET DE DEVELOPPEMENT SUR LE SITE LES AIDES.FR POUR LA CCI REGION HAUTS-DE-FRANCE",
+  "acheteur": "CCI de région HAUTS-DE-France",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109087",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "infra",
+  "vu_le": "2026-11-10"
+ },
+ "26-109056": {
+  "id": "26-109056",
+  "objet": "INFOGERANCE DU SYSTÈME D’INFORMATION",
+  "acheteur": "Paris Audiovisuel - Maison Européenne de la Photographie (MEP)",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-12-07T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109056",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-10"
+ },
+ "26-108884": {
+  "id": "26-108884",
+  "objet": "Fourniture D'Infrastructures Informatiques Incluant Les Licences Necessaires A Leurs Bon Fonctionnement Fourniture De Postes De Travail Et D'Equipements",
+  "acheteur": "Ville de Vernaison",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108884",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-10"
+ },
+ "26-108913": {
+  "id": "26-108913",
+  "objet": "PRESTATIONS D’ASSISTANCE, DE MAINTENANCE ET DE DEVELOPPEMENT SUR LE SITE LES AIDES.FR POUR LA CCI REGION HAUTS-DE-FRANCE",
+  "acheteur": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS-DE-FRANCE",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-09",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108913",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-10"
  },
  "26-108210": {
   "id": "26-108210",
