@@ -1,4 +1,113 @@
 {
+ "26-108987": {
+  "id": "26-108987",
+  "objet": "Accord-cadre de fourniture de matériels, logiciels et services associés de techniques de l'information et de la communication",
+  "acheteur": "Commune de Wittelsheim",
+  "departements": [
+   "68",
+   "67",
+   "88",
+   "25"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2027-01-20T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108987",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-11"
+ },
+ "26-109344": {
+  "id": "26-109344",
+  "objet": "FOURNITURE D'UN LOGICIEL DE GESTION DU TEMPS ET DES PLANNINGS",
+  "acheteur": "Département de la Dordogne",
+  "departements": [
+   "24",
+   "33",
+   "40",
+   "16",
+   "87",
+   "19"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2026-12-18T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109344",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-11"
+ },
+ "26-109203": {
+  "id": "26-109203",
+  "objet": "maintenance des pare-feu de la DIRCE",
+  "acheteur": "DIR Centre-est",
+  "departements": [
+   "69",
+   "42",
+   "3",
+   "73",
+   "26",
+   "38"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2026-12-15T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109203",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-11"
+ },
+ "26-108872": {
+  "id": "26-108872",
+  "objet": "CENTRALE D'ACHAT - Prestations de conception, développement et maintenance de services dématérialisés en technologies web (ASP.NET / C#)",
+  "acheteur": "Centrale d'achat Dijon Métropole",
+  "departements": [
+   "21"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2026-12-11T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108872",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-11"
+ },
+ "26-109100": {
+  "id": "26-109100",
+  "objet": "TMA_Repères_crues _026",
+  "acheteur": "Direction Générale de la prévention des Risques",
+  "departements": [
+   "31",
+   "32",
+   "34",
+   "33",
+   "92",
+   "69",
+   "75"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2027-01-06T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109100",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-11"
+ },
+ "26-109260": {
+  "id": "26-109260",
+  "objet": "Fourniture de services de télécommunications : interconnexion de sites, raccordement Internet et services opérés",
+  "acheteur": "Département de l'Eure",
+  "departements": [
+   "27"
+  ],
+  "parution": "2026-11-11",
+  "limite": "2026-12-11T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109260",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-11"
+ },
  "26-109309": {
   "id": "26-109309",
   "objet": "Accord cadre à bons de commande relatif à l'acquisition d'un logiciel de gestion des identités et des accès et prestations associées - Iam",
@@ -139,6 +248,51 @@
   "procedure": "Procédure Adaptée",
   "categorie": "logiciel",
   "vu_le": "2026-11-10"
+ },
+ "26-109653": {
+  "id": "26-109653",
+  "objet": "Mise en place d'un système d'encaissement pour Jazz à Vienne - Théâtre Antique",
+  "acheteur": "Cybèle Production",
+  "departements": [
+   "38"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109653",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-11"
+ },
+ "26-109507": {
+  "id": "26-109507",
+  "objet": "CMA-PdL FOURNITURE DE BORNES WIFI RUCKUS ET MISE EN OEUVRE D'UN CONTROLEUR CENTRALISE",
+  "acheteur": "CMAR Pays de Loire",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-07T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109507",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-11"
+ },
+ "26-109407": {
+  "id": "26-109407",
+  "objet": "Fourniture, paramétrage, accompagnement à la mise en oeuvre et maintenance d'un logiciel de gestion de l'occupation commerciale du domaine public des Halles, Marchés de plein air et",
+  "acheteur": "Ville de La Rochelle",
+  "departements": [
+   "17"
+  ],
+  "parution": "2026-11-10",
+  "limite": "2026-12-11T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109407",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-11"
  },
  "26-108664": {
   "id": "26-108664",
