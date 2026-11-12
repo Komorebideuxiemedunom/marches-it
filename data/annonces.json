@@ -1,4 +1,150 @@
 {
+ "26-109549": {
+  "id": "26-109549",
+  "objet": "LOCATION DE SCANNERS DE CHEQUES DE CLIENTS DE LA CAISSE DES DEPOTS POUR DEMATERIALISATION",
+  "acheteur": "CAISSE DES DEPOTS",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-14T11:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109549",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-12"
+ },
+ "26-109574": {
+  "id": "26-109574",
+  "objet": "Fourniture et maintenance des équipements et systèmes de téléphonie",
+  "acheteur": "Ville de Clamart",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-11T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109574",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-12"
+ },
+ "26-109648": {
+  "id": "26-109648",
+  "objet": "FOURNITURE, INSTALLATION ET MAINTENANCE D'UNE SOLUTION D'INTERCONNEXION DES SITES DU SMGEAG",
+  "acheteur": "Syndicat Mixte de Gestion de l'Eau et de l'Assainissement de Guadeloupe",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-11-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109648",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-12"
+ },
+ "26-109513": {
+  "id": "26-109513",
+  "objet": "2026A0277 Acquisition d'un datacenter modulaire et prestations associées",
+  "acheteur": "CG des A-M - Direction des Services Numériques",
+  "departements": [
+   "6"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-11-17T14:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109513",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-12"
+ },
+ "26-109649": {
+  "id": "26-109649",
+  "objet": "Solution Centralisée Multicanale de Gestion des Encaissements Abonnés du SMGEAG",
+  "acheteur": "Syndicat Mixte de Gestion de l'Eau et de l'Assainissement de Guadeloupe",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-10T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109649",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-12"
+ },
+ "26-109461": {
+  "id": "26-109461",
+  "objet": "service réseau dans les territoires d’outre-mer français au profit du RIE",
+  "acheteur": "SPM-DSAF",
+  "departements": [
+   "75",
+   "972",
+   "971",
+   "973",
+   "974",
+   "977",
+   "978",
+   "976"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2027-01-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109461",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-12"
+ },
+ "26-109404": {
+  "id": "26-109404",
+  "objet": "PBI-2027-005_Marché de fourniture d'accès internet, téléphonie fixe, téléphonie mobile",
+  "acheteur": "Pré Bocage Intercom",
+  "departements": [
+   "14"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-10T09:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109404",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-12"
+ },
+ "26-109737": {
+  "id": "26-109737",
+  "objet": "La Location, La Mise En oeuvre, La Maintenance Ainsi Que Les Services Associes D'Impression Numérique Multifonctions",
+  "acheteur": "Ville de Châteauneuf-sur-Loire",
+  "departements": [
+   "45"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-07T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109737",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-12"
+ },
+ "26-109828": {
+  "id": "26-109828",
+  "objet": "LOCATION ET MAINTENANCE DE 42 PHOTOCOPIEURS MULTIFONCTIONS MFP ET DU LOGICIEL DE GESTION DES IMPRESSIONS ASSOCIE",
+  "acheteur": "Ville de Saint Sébastien sur Loire",
+  "departements": [
+   "44",
+   "35",
+   "85",
+   "49",
+   "56"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109828",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-12"
+ },
  "26-108987": {
   "id": "26-108987",
   "objet": "Accord-cadre de fourniture de matériels, logiciels et services associés de techniques de l'information et de la communication",
