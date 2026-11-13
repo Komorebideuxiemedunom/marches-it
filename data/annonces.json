@@ -1,4 +1,115 @@
 {
+ "26-110560": {
+  "id": "26-110560",
+  "objet": "Souscription de services de télétransmission « Actes » - Relance",
+  "acheteur": "Sm Manche Numérique",
+  "departements": [
+   "50"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110560",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-13"
+ },
+ "26-110526": {
+  "id": "26-110526",
+  "objet": "Marché Relatif à La Mise à Disposition En Mode Saas D'Une Solution De Gestion De Location De Vélos, De Maintenance Et De Gestion De Pièces Détachées Pour La Stran",
+  "acheteur": "Stran",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-07T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110526",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-13"
+ },
+ "26-110081": {
+  "id": "26-110081",
+  "objet": "Réalisation de prestations intellectuelles informatiques au profit des différents organismes du ministère des Armées « Catalogue d’unités d’œuvre 5 »",
+  "acheteur": "-CND-",
+  "departements": [
+   "94",
+   "78",
+   "95",
+   "77",
+   "92",
+   "91",
+   "93"
+  ],
+  "parution": "2026-11-13",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110081",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-13"
+ },
+ "26-109675": {
+  "id": "26-109675",
+  "objet": "MAINTENANCE DE L'INFRASTRUCTURE SERVEURS",
+  "acheteur": "Commune de Saint-Denis",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-14T08:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109675",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-13"
+ },
+ "26-109714": {
+  "id": "26-109714",
+  "objet": "Maintenance des équipements informatique et téléphoniques (2026AFF028)",
+  "acheteur": "Conseil Départemental de la Corrèze",
+  "departements": [
+   "19"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-18T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109714",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-13"
+ },
+ "26-109942": {
+  "id": "26-109942",
+  "objet": "ACQUISITION D'UNE SOLUTION DE SAUVEGARDE",
+  "acheteur": "CDC Informatique",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-11-13",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109942",
+  "type": "Fournitures",
+  "procedure": "Procédure Négociée",
+  "categorie": "infra",
+  "vu_le": "2026-11-13"
+ },
+ "26-109762": {
+  "id": "26-109762",
+  "objet": "Acquisition et mise en place d'un portail patient pour le Centre Hospitalier du Mans",
+  "acheteur": "Centre hospitalier du Mans",
+  "departements": [
+   "72"
+  ],
+  "parution": "2026-11-13",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-109762",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-13"
+ },
  "26-109549": {
   "id": "26-109549",
   "objet": "LOCATION DE SCANNERS DE CHEQUES DE CLIENTS DE LA CAISSE DES DEPOTS POUR DEMATERIALISATION",
@@ -144,6 +255,67 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-11-12"
+ },
+ "26-110191": {
+  "id": "26-110191",
+  "objet": "Marché de fournitures d'outils d'intelligence économique",
+  "acheteur": "GRAND EST DEVELOPPEMENT",
+  "departements": [
+   "68",
+   "67",
+   "57",
+   "54",
+   "55",
+   "88",
+   "52",
+   "51",
+   "8"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-14T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110191",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-13"
+ },
+ "26-110116": {
+  "id": "26-110116",
+  "objet": "Achat Matériel Informatique",
+  "acheteur": "AIRPARIF",
+  "departements": [
+   "75",
+   "91",
+   "94",
+   "93",
+   "78",
+   "77",
+   "95",
+   "92"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-11-27T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110116",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-13"
+ },
+ "26-110280": {
+  "id": "26-110280",
+  "objet": "Barrage de VILLEREST : Hotline et assistance technique automatisme",
+  "acheteur": "Etablissement Public Loire",
+  "departements": [
+   "45",
+   "42"
+  ],
+  "parution": "2026-11-12",
+  "limite": "2026-12-16T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110280",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-13"
  },
  "26-108987": {
   "id": "26-108987",
