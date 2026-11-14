@@ -110,6 +110,69 @@
   "categorie": "logiciel",
   "vu_le": "2026-11-13"
  },
+ "26-110733": {
+  "id": "26-110733",
+  "objet": "Acquisition, déploiement et maintenance d'une solution logicielle métier pour le centre municipal de santé Françoise Dolto de la ville de Tremblay-en-France (remplacement MAIDIS)",
+  "acheteur": "SII Syndicat Mixte des Systèmes d'Information",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110733",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-14"
+ },
+ "26-110775": {
+  "id": "26-110775",
+  "objet": "Location de Terminaux de Paiement Électronique (TPE) embarqués pour les véhicules de la Régie des Transports de l'Ain",
+  "acheteur": "R.D.T. AIN",
+  "departements": [
+   "1"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110775",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-14"
+ },
+ "26-110636": {
+  "id": "26-110636",
+  "objet": "Maintenance, entretien et assistance du parc informatique du GRETA Midi Pyrénées Ouest (GMPO)",
+  "acheteur": "Lycée Antoine Bourdelle, établissement support du GRETA Midi-Pyrénées Ouest",
+  "departements": [
+   "31",
+   "32",
+   "65",
+   "82"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110636",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-14"
+ },
+ "26-110779": {
+  "id": "26-110779",
+  "objet": "Solution de paiement en ligne des loyers des locataires de Var Habitat",
+  "acheteur": "Oph Var Habitat",
+  "departements": [
+   "83"
+  ],
+  "parution": "2026-11-13",
+  "limite": "2026-12-10T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110779",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-14"
+ },
  "26-109549": {
   "id": "26-109549",
   "objet": "LOCATION DE SCANNERS DE CHEQUES DE CLIENTS DE LA CAISSE DES DEPOTS POUR DEMATERIALISATION",
