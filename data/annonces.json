@@ -1,4 +1,80 @@
 {
+ "26-110470": {
+  "id": "26-110470",
+  "objet": "Maintenance et suivi des logiciels DESIGO, ABT et xWORKS+, acquisition de licences liées et prestations associées",
+  "acheteur": "Communauté Urbaine Caen La Mer",
+  "departements": [
+   "14"
+  ],
+  "parution": "2026-11-15",
+  "limite": "2027-01-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110470",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-15"
+ },
+ "26-110528": {
+  "id": "26-110528",
+  "objet": "l'approvisionnement et la rationalisation du portefeuille de logiciels avec mise à disposition d'une bibliothèque logicielle mutil-éditeurs",
+  "acheteur": "Seine et Yvelines Numérique",
+  "departements": [
+   "78",
+   "75"
+  ],
+  "parution": "2026-11-15",
+  "limite": "2026-12-14T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110528",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-15"
+ },
+ "26-110413": {
+  "id": "26-110413",
+  "objet": "AO GIE Alliance PRO \"Acquisition d'un outil de planification des ressources\"",
+  "acheteur": "GIE ALLIANCE PROFESSIONNELLE",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-15",
+  "limite": "2026-11-20T08:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110413",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-15"
+ },
+ "26-110556": {
+  "id": "26-110556",
+  "objet": "Déploiement et maintenance du dispositif de l'Appli M - Relance après déclaration sans suite",
+  "acheteur": "SMMAG",
+  "departements": [
+   "38"
+  ],
+  "parution": "2026-11-15",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110556",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-15"
+ },
+ "26-110259": {
+  "id": "26-110259",
+  "objet": "ACQUISITION ET MAINTENANCE DE COPIEURS MULTIFONCTIONS AVEC FOURNITURE DE CONSOMMABLES, DE LOGICIELS ET PRESTATIONS ASSOCIEES",
+  "acheteur": "CNFPT - Direction de l'achat public",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-14",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110259",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-15"
+ },
  "26-110560": {
   "id": "26-110560",
   "objet": "Souscription de services de télétransmission « Actes » - Relance",
