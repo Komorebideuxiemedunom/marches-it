@@ -1,4 +1,71 @@
 {
+ "26-110971": {
+  "id": "26-110971",
+  "objet": "Maintenance informatique et assistance aux utilisateurs et vérification du parc scolaire",
+  "acheteur": "Commune de Néoules",
+  "departements": [
+   "83"
+  ],
+  "parution": "2026-11-16",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110971",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-16"
+ },
+ "26-111038": {
+  "id": "26-111038",
+  "objet": "Fourniture, mise en oeuvre et maintenance d'une solution de gestion des activités de la police municipale de la Ville du Mans - 4 ans",
+  "acheteur": "Ville du Mans",
+  "departements": [
+   "72"
+  ],
+  "parution": "2026-11-16",
+  "limite": "2026-12-18T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111038",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-16"
+ },
+ "26-111066": {
+  "id": "26-111066",
+  "objet": "Gestion de photothèque et traitements documentaires (dont indexation de photographies) dans l'application Photothèque",
+  "acheteur": "Region Normandie",
+  "departements": [
+   "14",
+   "50",
+   "27",
+   "61",
+   "76"
+  ],
+  "parution": "2026-11-16",
+  "limite": "2026-12-16T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111066",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-16"
+ },
+ "26-111064": {
+  "id": "26-111064",
+  "objet": "Marché de services de télécommunications - 3 lots : téléphonie fixe, téléphonie mobile, accès Internet et liaisons de données",
+  "acheteur": "Communauté de Communes Sud Luberon",
+  "departements": [
+   "84",
+   "13",
+   "4",
+   "83"
+  ],
+  "parution": "2026-11-16",
+  "limite": "2026-12-16T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111064",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-16"
+ },
  "26-110470": {
   "id": "26-110470",
   "objet": "Maintenance et suivi des logiciels DESIGO, ABT et xWORKS+, acquisition de licences liées et prestations associées",
@@ -59,6 +126,21 @@
   "procedure": "Procédure Négociée",
   "categorie": "web",
   "vu_le": "2026-11-15"
+ },
+ "26-110674": {
+  "id": "26-110674",
+  "objet": "Fourniture, mise en œuvre et exploitation d'une solution de gestion des interactions écrites, de gestion de la connaissance, de self-service et de satisfaction client",
+  "acheteur": "Centre National d'Enseignement à Distance (Cned)",
+  "departements": [
+   "86"
+  ],
+  "parution": "2026-11-15",
+  "limite": "2026-12-29T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110674",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-16"
  },
  "26-110259": {
   "id": "26-110259",
