@@ -1,4 +1,65 @@
 {
+ "26-111009": {
+  "id": "26-111009",
+  "objet": "Définition, mise en oeuvre et déploiement opérationnel de la stratégie d'intelligence artificielle du groupe ALTEMED",
+  "acheteur": "ALTEMED",
+  "departements": [
+   "34"
+  ],
+  "parution": "2026-11-17",
+  "limite": "2026-11-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111009",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-17"
+ },
+ "26-110905": {
+  "id": "26-110905",
+  "objet": "Reprise et développement de la plateforme « Widget Factory », maintenance applicative, évolutions et hébergement associés",
+  "acheteur": "Meteo-France",
+  "departements": [
+   "94",
+   "31"
+  ],
+  "parution": "2026-11-17",
+  "limite": "2026-12-17T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110905",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-17"
+ },
+ "26-110978": {
+  "id": "26-110978",
+  "objet": "FOURNITURE DE SERVICES DE TÉLÉPHONIE MOBILE, DE TERMINAUX ET D'ACCESSOIRES POUR LA SPL OPÉ",
+  "acheteur": "Société Publique Locale OPÉ (Oser Pour l'Éducation)",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-17",
+  "limite": "2026-12-22T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110978",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-17"
+ },
+ "26-110982": {
+  "id": "26-110982",
+  "objet": "Développement, fourniture, intégration, assistance au développement et maintenance du système d’information ISIS",
+  "acheteur": "DGAP.",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-17",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110982",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-17"
+ },
  "26-110971": {
   "id": "26-110971",
   "objet": "Maintenance informatique et assistance aux utilisateurs et vérification du parc scolaire",
