@@ -1,4 +1,217 @@
 {
+ "26-111798": {
+  "id": "26-111798",
+  "objet": "Prestations de diagnostic phytosanitaire des arbres sur SIG pour le Domaine national de Saint-Cloud (92210) et les bords des étangs de Ville d’Avray (92410)",
+  "acheteur": "Centre des Monuments Nationaux",
+  "departements": [
+   "75",
+   "92"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2026-12-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111798",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-19"
+ },
+ "26-112304": {
+  "id": "26-112304",
+  "objet": "Mise en place d'un outil chatbot IA touristique dans le cadre des escales Sambre",
+  "acheteur": "AGGLOMERATION MAUBEUGE VAL DE SAMBRE (AMVS)",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2026-12-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112304",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-19"
+ },
+ "26-112438": {
+  "id": "26-112438",
+  "objet": "Travaux d'installation d'une PAC sur le site de Bruges de l'Urssaf Aquitaine",
+  "acheteur": "URSSAF AQUITAINE",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2026-12-10T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112438",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-19"
+ },
+ "26-111626": {
+  "id": "26-111626",
+  "objet": "Réalisation de prestations destinées à l'informatisation de différents domaines d'intervention du Département",
+  "acheteur": "Conseil Départemental du Pas-de-Calais",
+  "departements": [
+   "62"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2027-01-29T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111626",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
+ "26-112239": {
+  "id": "26-112239",
+  "objet": "Prestations d'optimisation du codage PMSI MCO et SMR du Centre Hospitalier Simone Veil de Beauvais et du Centre Hospitalier de Clermont de l'Oise",
+  "acheteur": "Centre Hospitalier de Beauvais",
+  "departements": [
+   "60",
+   "75"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2026-12-09T18:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112239",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
+ "26-111845": {
+  "id": "26-111845",
+  "objet": "Solution Centralisée Multicanale de Gestion des Encaissements Abonnés du SMGEAG",
+  "acheteur": "Syndicat Mixte de Gestion de l'Eau et de l'Assainissement de Guadeloupe",
+  "departements": [
+   "971"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2026-12-10T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111845",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-19"
+ },
+ "26-111225": {
+  "id": "26-111225",
+  "objet": "Fourniture matériels, solutions logicielles, et prestations de services pour imprimantes et copieurs",
+  "acheteur": "Communauté d'Agglomération Riom Limagne et Volcans",
+  "departements": [
+   "63"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2026-11-26T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111225",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-19"
+ },
+ "26-112002": {
+  "id": "26-112002",
+  "objet": "HÉBERGEMENT, MAINTENANCE ET ÉVOLUTION DU SITE INTERNET ET DE L'EXTRANET",
+  "acheteur": "SMEPE - Syndicat Mixte Entre Pic et Etang",
+  "departements": [
+   "34",
+   "30"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2027-01-06T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112002",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
+ "26-111279": {
+  "id": "26-111279",
+  "objet": "FOURNITURE D'UN LOGICIEL DE GESTION DES SUBVENTIONS ET PRESTATIONS ASSOCIEES AU DEPARTEMENT D'ILLE-ET-VILAINE",
+  "acheteur": "Conseil Départemental d'Ille et Vilaine",
+  "departements": [
+   "35"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2026-12-24T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111279",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-19"
+ },
+ "26-111310": {
+  "id": "26-111310",
+  "objet": "Intégration de données géographiques, développement de solutions applicatives et Maintien en Condition Opérationnelle du SIG métropolitain",
+  "acheteur": "Métropole Aix Marseille Provence",
+  "departements": [
+   "13"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2027-01-08T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111310",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
+ "26-111249": {
+  "id": "26-111249",
+  "objet": "PRESTATIONS DE MAINTIEN EN CONDITION OPERATIONNELLE DE L’INFRASTRUCTURE DES RESEAUX BUREAUTIQUE ET SURETE ET DE L’INFRASTRUCTURE DE TELEPHONIE IP DE L’ETABLISSEMENT PUBLIC DU MUSEE DU LOUVRE",
+  "acheteur": "MUSEE DU LOUVRE",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111249",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-19"
+ },
+ "26-111975": {
+  "id": "26-111975",
+  "objet": "FOURNITURE ET INSTALLATION D'UN PANNEAU A SCORE VIDEO LED INTERIEUR POUR LE COMPLEXE SPORTIF DU VIGNEAU A SAINT HERBLAIN",
+  "acheteur": "Mairie de St Herblain",
+  "departements": [
+   "44"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2026-12-09T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111975",
+  "type": "Fournitures",
+  "procedure": "Procédure Adaptée",
+  "categorie": "telecom",
+  "vu_le": "2026-11-19"
+ },
+ "26-111217": {
+  "id": "26-111217",
+  "objet": "Développement et maintenance de la plateforme de mutualisation de données de l'observatoire transfrontalier France-Wallonie-Vlaanderen (GOT)",
+  "acheteur": "Région Hauts-de-France",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111217",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
+ "26-111185": {
+  "id": "26-111185",
+  "objet": "Prestations d'assistance au pilotage de projets informatiques et au maintien en conditions opérationnelles d'applications",
+  "acheteur": "DÉPARTEMENT DU VAL-DE-MARNE",
+  "departements": [
+   "94"
+  ],
+  "parution": "2026-11-18",
+  "limite": "2027-01-05T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111185",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-19"
+ },
  "26-111009": {
   "id": "26-111009",
   "objet": "Définition, mise en oeuvre et déploiement opérationnel de la stratégie d'intelligence artificielle du groupe ALTEMED",
