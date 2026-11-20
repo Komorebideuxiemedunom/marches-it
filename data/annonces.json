@@ -1,4 +1,348 @@
 {
+ "26-112377": {
+  "id": "26-112377",
+  "objet": "MAINTENANCE DES INSTALLATIONS D'ALARME ANTI-INTRUSION MAINTENANCE ET INSTALLATION DES SYSTÈMES D'ALARME ANTI-INTRUSION, CONTRÔLES D'ACCÈS, BORNES D'APPELS D'URGENCE ET SYSTÈME D'ALERTE D'INFORMAT...",
+  "acheteur": "Mairie de Salon de Provence",
+  "departements": [
+   "13",
+   "26",
+   "30",
+   "34"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-04T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112377",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112998": {
+  "id": "26-112998",
+  "objet": "Tierce Maintenance Applicative des Intranet et des sites Internet pédagogiques",
+  "acheteur": "RECTORAT DE L'ACADEMIE DE NANTES",
+  "departements": [
+   "14",
+   "27",
+   "44",
+   "49",
+   "50",
+   "53",
+   "72",
+   "76",
+   "85"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-14T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112998",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112435": {
+  "id": "26-112435",
+  "objet": "PRESTATION DE FOURNITURE D’EQUIPEMENTS ET DE SERVICES ASSOCIES PERMETTANT DE REPONDRE AUX BESOINS DU CENTRE DE CRISE ET DE SOUTIEN (CDCS) DU MEAE EN MATIERE DE MOYENS DE COMMUNICATION RADIO",
+  "acheteur": "Ministère de l'Europe et des affaires étrangères",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-22T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112435",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-20"
+ },
+ "26-112268": {
+  "id": "26-112268",
+  "objet": "Fourniture, mise en œuvre et exploitation d'une solution de gestion des interactions écrites, de gestion de la connaissance, de self-service et de satisfaction client",
+  "acheteur": "Centre National d'Enseignement à Distance (Cned)",
+  "departements": [
+   "86"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-04T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112268",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-111854": {
+  "id": "26-111854",
+  "objet": "Mise à disposition en mode SAAS d’une solution numérique de veille et de détection d’éventuels détournements d’usage des données du système d'information de l'ANTENJ et prestations associées",
+  "acheteur": "ANTENJ",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-20",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111854",
+  "type": "Services",
+  "procedure": "Procédure Restreinte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-111901": {
+  "id": "26-111901",
+  "objet": "Fourniture, installation et hébergement en mode SaaS d’un Système de Gestion des Bibliothèques pour le Service Commun de la Documentation (SCD) de l’université Paris 1 Panthéon-Sorbonne",
+  "acheteur": "Université Paris 1 Panthéon-Sorbonne",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-21T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111901",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-112182": {
+  "id": "26-112182",
+  "objet": "Marché relatif à la mise en place, au déploiement et à la maintenance d'un progiciel de gestion intégré (ERP).",
+  "acheteur": "Régie comm d'eau et d'ass. La Créole",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-20",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112182",
+  "type": "Services",
+  "procedure": "Procédure NC",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-112064": {
+  "id": "26-112064",
+  "objet": "Sécurisation du Système d'Information - Relance du lot n°1 : Remplacement des serveurs de virtualisation et création d'une baie redondée",
+  "acheteur": "Commune de Petite-Ile",
+  "departements": [
+   "974"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-04T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112064",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-20"
+ },
+ "26-111997": {
+  "id": "26-111997",
+  "objet": "Evolutions applicatives et maintien en conditions opérationnelles du logiciel libre « Bien VU » pour la gestion des signalements avec son framework Lutèce",
+  "acheteur": "Etablissement Public Territorial Plaine Commune",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111997",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-112408": {
+  "id": "26-112408",
+  "objet": "Réalisation, conception et maintenance de la plateforme numérique France Biobank Network",
+  "acheteur": "INSERM",
+  "departements": [
+   "75",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-18T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112408",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112970": {
+  "id": "26-112970",
+  "objet": "Acquisition et mise en oeuvre d'une solution Sirh et Paie en mode Saas",
+  "acheteur": "Loir&Cher Logement",
+  "departements": [
+   "41"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-21T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112970",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-20"
+ },
+ "26-111956": {
+  "id": "26-111956",
+  "objet": "Renouvellement locatif du parc informatique et prestations de maintenance associées",
+  "acheteur": "Mairie de Saint Laurent Médoc",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-18T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111956",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-111857": {
+  "id": "26-111857",
+  "objet": "AOO SIE",
+  "acheteur": "Ministère de l'Intérieur",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111857",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112189": {
+  "id": "26-112189",
+  "objet": "FOURNITURE, DEPLOIEMENT, CONFIGURATION, INTEGRATION ET MAINTENANCE DES EQUIPEMENTS ET SOLUTIONS DESTINES AU SYSTEME D’INFORMATION DE LA CAGNM",
+  "acheteur": "Communauté d'Agglomération du Grand Nord de Mayotte (976)",
+  "departements": [
+   "976"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-28T09:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112189",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-20"
+ },
+ "26-112085": {
+  "id": "26-112085",
+  "objet": "Accompagnement à la migration hors SAS et à la mise en oeuvre d'un socle technique et applicatif R/Python",
+  "acheteur": "ANSES",
+  "departements": [
+   "94"
+  ],
+  "parution": "2026-11-20",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112085",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-111979": {
+  "id": "26-111979",
+  "objet": "Rénovation de la Gestion Technique Centralisée (GTC) des ouvrages de Foix, Saint-Béat-Lez et du paravalanche H2",
+  "acheteur": "Direction Interdépartementale des Routes du Sud-Ouest",
+  "departements": [
+   "9",
+   "12",
+   "31",
+   "33",
+   "40",
+   "65",
+   "66",
+   "81"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111979",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-111995": {
+  "id": "26-111995",
+  "objet": "Fourniture d'informations légales, financières et veille stratégique sur les entreprises et filières agricoles et agroalimentaires",
+  "acheteur": "CCMSA",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-18T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111995",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112299": {
+  "id": "26-112299",
+  "objet": "Acquisitions aériennes pour le renouvellement d’un PCRS - Plan de Corps de Rue Simplifié – Image et actualisation du référentiel de données 3D du jumeau numérique sur le département de la Vendée",
+  "acheteur": "Géo Vendée (85)",
+  "departements": [
+   "85"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-04T07:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112299",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
+ "26-112421": {
+  "id": "26-112421",
+  "objet": "Modification AAPC; modification de la date de rmise des plis: 30/11/2026 à 16 heurs",
+  "acheteur": "Mairie de saint avold",
+  "departements": [
+   "57"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-11-30T16:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112421",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-20"
+ },
+ "26-112429": {
+  "id": "26-112429",
+  "objet": "QUALIF_FONC_DRASI_2026",
+  "acheteur": "Région académique d'Ile-de-France",
+  "departements": [
+   "75",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "77",
+   "95"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2027-01-04T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112429",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
+ },
  "26-111798": {
   "id": "26-111798",
   "objet": "Prestations de diagnostic phytosanitaire des arbres sur SIG pour le Domaine national de Saint-Cloud (92210) et les bords des étangs de Ville d’Avray (92410)",
@@ -90,6 +434,21 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-11-19"
+ },
+ "26-112500": {
+  "id": "26-112500",
+  "objet": "Marché de prestations d'hébergement de maintenance annuelle et évolutive des applicatifs Label Haie",
+  "acheteur": "Afac-Agroforesteries",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-19",
+  "limite": "2027-01-20T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112500",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-20"
  },
  "26-111225": {
   "id": "26-111225",
