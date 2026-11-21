@@ -343,6 +343,51 @@
   "categorie": "web",
   "vu_le": "2026-11-20"
  },
+ "26-113203": {
+  "id": "26-113203",
+  "objet": "Accord-cadre de services de TIC ou d'infogérance",
+  "acheteur": "COMMUNAUTE DE COMMUNES PIEGE LAURAGAIS MALEPERE",
+  "departements": [
+   "11"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-28T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113203",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-21"
+ },
+ "26-113040": {
+  "id": "26-113040",
+  "objet": "26F1099_PUBLIK",
+  "acheteur": "Mairie de Cannes",
+  "departements": [
+   "6"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113040",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-21"
+ },
+ "26-113147": {
+  "id": "26-113147",
+  "objet": "CHANGEMENT DU SERVEUR D'ENREGISTREMENT DE VIDEOPROTECTION, DU LOGICIEL DE VISIONNAGE ET DU POSTE OPERATEUR",
+  "acheteur": "MAIRIE du CHAMBON-FEUGEROLLES",
+  "departements": [
+   "42"
+  ],
+  "parution": "2026-11-20",
+  "limite": "2026-12-09T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113147",
+  "type": "Fournitures",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-21"
+ },
  "26-111798": {
   "id": "26-111798",
   "objet": "Prestations de diagnostic phytosanitaire des arbres sur SIG pour le Domaine national de Saint-Cloud (92210) et les bords des étangs de Ville d’Avray (92410)",
