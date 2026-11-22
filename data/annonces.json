@@ -1,4 +1,79 @@
 {
+ "26-112785": {
+  "id": "26-112785",
+  "objet": "26N0449-Hébergement des sites Internet et prestations associées",
+  "acheteur": "METROPOLE NICE COTE D'AZUR",
+  "departements": [
+   "6"
+  ],
+  "parution": "2026-11-22",
+  "limite": "2027-01-07T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112785",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-22"
+ },
+ "26-112518": {
+  "id": "26-112518",
+  "objet": "Conception et développement d'un Serious Game et de capsules e-learning portant sur le risque CO2 et autres risques chimiques en cave de vinification",
+  "acheteur": "CAISSE CENTRALE MSA",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-21",
+  "limite": "2026-12-07T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112518",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-22"
+ },
+ "26-112611": {
+  "id": "26-112611",
+  "objet": "Mise en place d'un chatbot à destination client pour le site actionlogement.fr",
+  "acheteur": "ACTION LOGEMENT SERVICES",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-21",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112611",
+  "type": "Services",
+  "procedure": "Procédure Négociée",
+  "categorie": "web",
+  "vu_le": "2026-11-22"
+ },
+ "26-112692": {
+  "id": "26-112692",
+  "objet": "Fourniture, installation, paramétrage, mise en service, formation, maintenance et support d’un logiciel dédié à l’identité vigilance dans le cadre des activités de PMA",
+  "acheteur": "CHU AMIENS PICARDIE",
+  "departements": [
+   "80"
+  ],
+  "parution": "2026-11-21",
+  "limite": "2026-12-22T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112692",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-22"
+ },
+ "26-112543": {
+  "id": "26-112543",
+  "objet": "SERVICES DE TELECOMMUNICATIONS",
+  "acheteur": "Communauté de Communes du Pays de Cruseilles",
+  "departements": [
+   "74"
+  ],
+  "parution": "2026-11-21",
+  "limite": "2026-12-21T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112543",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-22"
+ },
  "26-112377": {
   "id": "26-112377",
   "objet": "MAINTENANCE DES INSTALLATIONS D'ALARME ANTI-INTRUSION MAINTENANCE ET INSTALLATION DES SYSTÈMES D'ALARME ANTI-INTRUSION, CONTRÔLES D'ACCÈS, BORNES D'APPELS D'URGENCE ET SYSTÈME D'ALERTE D'INFORMAT...",
