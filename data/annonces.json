@@ -1,4 +1,137 @@
 {
+ "26-113753": {
+  "id": "26-113753",
+  "objet": "Acquisition de licences Office 365",
+  "acheteur": "Mairie de LENS",
+  "departements": [
+   "62"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2026-12-11T12:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113753",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-24"
+ },
+ "26-113937": {
+  "id": "26-113937",
+  "objet": "Marché de service pour l'exécution de la mission de Maintenance Informatique - Fourniture de Logiciel",
+  "acheteur": "Ametarra spl",
+  "departements": [
+   "20A"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2026-12-17T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113937",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-24"
+ },
+ "26-113267": {
+  "id": "26-113267",
+  "objet": "Infogérance des postes de travail et de support de proximité des environnements utilisateurs",
+  "acheteur": "Ville de Saint-Priest",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2027-01-06T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113267",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-24"
+ },
+ "26-113431": {
+  "id": "26-113431",
+  "objet": "Accord-cadre relatif à la fourniture de petit matériel informatique",
+  "acheteur": "CPAM DE L'ISERE",
+  "departements": [
+   "38",
+   "1",
+   "26",
+   "7",
+   "73",
+   "69"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2026-11-25T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113431",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-24"
+ },
+ "26-113450": {
+  "id": "26-113450",
+  "objet": "Hébergement CMS",
+  "acheteur": "GIP MDS",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2027-01-15T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113450",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-24"
+ },
+ "26-113255": {
+  "id": "26-113255",
+  "objet": "Mise à disposition d’un système de vote électronique pour les élections des membres des Chambres de Commerce et d’lndustrie (CCI)",
+  "acheteur": "CCI FRANCE",
+  "departements": [
+   "13",
+   "29",
+   "33",
+   "69",
+   "75",
+   "78",
+   "92",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2026-11-20T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113255",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-24"
+ },
+ "26-113350": {
+  "id": "26-113350",
+  "objet": "Fourniture de licences et de prestations MICROSOFT-.",
+  "acheteur": "Communauté d'agglomération Grand Saint-Dizier Der et Vallées",
+  "departements": [
+   "52"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2027-01-06T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113350",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-24"
+ },
+ "26-114070": {
+  "id": "26-114070",
+  "objet": "Fourniture d'une plateforme numérique pour l'Onisep permettant de réaliser des tchats entre un invité et des internautes",
+  "acheteur": "Onisep",
+  "departements": [
+   "77"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2026-12-15T17:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114070",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-24"
+ },
  "26-113496": {
   "id": "26-113496",
   "objet": "Maintenance informatique du parc de la Ville de Thuir",
