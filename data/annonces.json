@@ -1,4 +1,80 @@
 {
+ "26-113875": {
+  "id": "26-113875",
+  "objet": "Acquisition, livraison, installation, mise en service de matériels d'impression multifonctions et prestations associées.",
+  "acheteur": "GHT HAUTE CORSE",
+  "departements": [
+   "20B"
+  ],
+  "parution": "2026-11-25",
+  "limite": "2026-12-28T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113875",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-25"
+ },
+ "26-113764": {
+  "id": "26-113764",
+  "objet": "Acquisition et fourniture de postes informatiques, équipements associés et prestations associées",
+  "acheteur": "Etablissement Public du Commerce et de l'Industrie de Corse",
+  "departements": [
+   "20B",
+   "20A"
+  ],
+  "parution": "2026-11-25",
+  "limite": "2026-12-28T09:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113764",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-25"
+ },
+ "26-113790": {
+  "id": "26-113790",
+  "objet": "Prestations d'infogérance des systèmes d'information",
+  "acheteur": "TRANSITIONS PRO Île-de-France",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-25",
+  "limite": "2027-01-04T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113790",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-25"
+ },
+ "26-113834": {
+  "id": "26-113834",
+  "objet": "Accord-cadre mono-attributaire à bons de commande et à marchés subséquents pour la fourniture et le déploiement d'une solution logicielle et sa maintenance permettant de gérer la facturation, la re...",
+  "acheteur": "NOREADE SIDEN-SIAN",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-25",
+  "limite": "",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113834",
+  "type": "Fournitures",
+  "procedure": "Procédure Négociée",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-25"
+ },
+ "26-113671": {
+  "id": "26-113671",
+  "objet": "Fourniture de logiciels, d'éléments d'infrastructure et de prestations de support Oracle en complément du parc existant des bénéficiaires",
+  "acheteur": "Union des Groupements d'Achats Publics",
+  "departements": [
+   "77"
+  ],
+  "parution": "2026-11-25",
+  "limite": "2027-01-08T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113671",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-25"
+ },
  "26-113753": {
   "id": "26-113753",
   "objet": "Acquisition de licences Office 365",
@@ -131,6 +207,22 @@
   "procedure": "Procédure Ouverte",
   "categorie": "web",
   "vu_le": "2026-11-24"
+ },
+ "26-114184": {
+  "id": "26-114184",
+  "objet": "2027 - MAP - Hébergement infogérance écosystème web",
+  "acheteur": "AUVERGNE RHONE ALPES TOURISME",
+  "departements": [
+   "69",
+   "63"
+  ],
+  "parution": "2026-11-24",
+  "limite": "2027-01-08T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114184",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "infra",
+  "vu_le": "2026-11-25"
  },
  "26-113496": {
   "id": "26-113496",
