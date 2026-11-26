@@ -1,4 +1,145 @@
 {
+ "26-114764": {
+  "id": "26-114764",
+  "objet": "FOURNITURE ET LIVRAISON DE MATERIELS INFORMATIQUES",
+  "acheteur": "COMMUNE DE MOISSY CRAMAYEL",
+  "departements": [
+   "77"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2027-01-06T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114764",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-26"
+ },
+ "26-114765": {
+  "id": "26-114765",
+  "objet": "PRESTATIONS D'INFOGERANCE INFORMATIQUE",
+  "acheteur": "EPA ECOVALLEE PLAINE DU VAR",
+  "departements": [
+   "6"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-16T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114765",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-26"
+ },
+ "26-114649": {
+  "id": "26-114649",
+  "objet": "Maintenance du matériel informatique des groupes scolaires de la ville de Meyzieu",
+  "acheteur": "Ville de Meyzieu",
+  "departements": [
+   "69"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-15T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114649",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-26"
+ },
+ "26-113903": {
+  "id": "26-113903",
+  "objet": "ACQUISITION DE SERVEURS RECONDITIONNES A DESTINATION DES LYCEES DE NOUVELLE-AQUITAINE",
+  "acheteur": "Région Nouvelle-Aquitaine",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2027-11-15T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113903",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-26"
+ },
+ "26-113930": {
+  "id": "26-113930",
+  "objet": "Extension et maintenance du dispositif de vidéoprotection de la ville de Saint-Cloud",
+  "acheteur": "Ville de Saint-Cloud",
+  "departements": [
+   "92"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2027-01-08T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113930",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-26"
+ },
+ "26-113922": {
+  "id": "26-113922",
+  "objet": "FOURNITURE DE MATERIELS, EQUIPEMENTS ET COMPOSANTS DE RECHANGE RECONDITIONNÉS NECESSAIRES AU MAINTIEN EN CONDITION OPERATIONNELLE DU BACKBONE ET DES INFRASTRUCTURES RESEAU",
+  "acheteur": "RENATER",
+  "departements": [
+   "75",
+   "92"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-29T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-113922",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "materiel",
+  "vu_le": "2026-11-26"
+ },
+ "26-114007": {
+  "id": "26-114007",
+  "objet": "Conception, développement, maintien en condition opérationnelle et évolution des produits numériques de l’administration numérique de la DILA",
+  "acheteur": "SPM - DSAF - BCP",
+  "departements": [
+   "75",
+   "78",
+   "91",
+   "92",
+   "93",
+   "95"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-07T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114007",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-26"
+ },
+ "26-114360": {
+  "id": "26-114360",
+  "objet": "PRESTATION D'INFOGERANCE - MISSION DE PRISE EN CHARGE DU SECTEUR DES SYSTEMES D'INFORMATIONS DE LA DIRECTION DES SYSTEMES D'INFORMATION MUTUALISEE",
+  "acheteur": "COMMUNAUTE D'AGGLOMERATION DE MARNE ET GONDOIRE",
+  "departements": [
+   "77"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-28T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114360",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-26"
+ },
+ "26-114033": {
+  "id": "26-114033",
+  "objet": "Accord-cadre à bons de commande et à marchés subséquents relatif à l'accompagnement à l'automatisation des infrastructures informatiques",
+  "acheteur": "Conseil Départemental du Nord",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-26",
+  "limite": "2026-12-09T15:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114033",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-26"
+ },
  "26-113875": {
   "id": "26-113875",
   "objet": "Acquisition, livraison, installation, mise en service de matériels d'impression multifonctions et prestations associées.",
@@ -74,6 +215,21 @@
   "procedure": "Procédure Ouverte",
   "categorie": "logiciel",
   "vu_le": "2026-11-25"
+ },
+ "26-114566": {
+  "id": "26-114566",
+  "objet": "Acquisition d'une base de données de l'offre aérienne programmée (historique et prévisionnelle) sur les aéroports en France et en Europe",
+  "acheteur": "Autorité de Régulation des Transports",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-25",
+  "limite": "2027-01-15T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114566",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-26"
  },
  "26-113753": {
   "id": "26-113753",
