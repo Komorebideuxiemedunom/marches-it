@@ -1,4 +1,196 @@
 {
+ "26-114754": {
+  "id": "26-114754",
+  "objet": "ACCORD-CADRE DE PRESTATIONS DE VEILLE ET SAISIE INFORMATIQUE DE TEXTES REGLEMENTAIRES ET LEGISLATIFS DANS LE DOMAINE DE L’ENVIRONNEMENT",
+  "acheteur": "INERIS",
+  "departements": [
+   "60"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-08T17:30",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114754",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
+ "26-114763": {
+  "id": "26-114763",
+  "objet": "Fourniture de troncs de collecte IP, d’accès primaires (T2), de groupements d’accès de base (T0) en France métropolitaine, acheminement des communications téléphoniques associées",
+  "acheteur": "Ministère de l'action et des comptes publics - Direction des achats de l’État",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-11-12T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114763",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-27"
+ },
+ "26-114492": {
+  "id": "26-114492",
+  "objet": "Fourniture de droits d'usage de licences Microsoft 365 pour la ville de Douai",
+  "acheteur": "Mairie de Douai",
+  "departements": [
+   "59"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-31T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114492",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-27"
+ },
+ "26-114524": {
+  "id": "26-114524",
+  "objet": "Maintenance et évolution des sites internet du SIAAP et fourniture d'abonnements à des outils numériques",
+  "acheteur": "Syndicat interdépartemental pour l'assainissement de l'agglomération parisienne (SIAAP)",
+  "departements": [
+   "75",
+   "78",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-11T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114524",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
+ "26-114607": {
+  "id": "26-114607",
+  "objet": "Mise à disposition d’un flux prépresse automatisé de la chaîne graphique de la Direction de l’information légale et administrative (DILA)",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75",
+   "77",
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-26T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114607",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
+ "26-114456": {
+  "id": "26-114456",
+  "objet": "ACCORD-CADRE MONO-ATTRIBUTAIRE A BONS DE COMMANDE POUR LES TRAVAUX DE GENIE CIVIL TELECOM ET LA FIBRE OPTIQUE",
+  "acheteur": "Communauté d'Agglomération Hénin Carvin",
+  "departements": [
+   "62"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-29T15:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114456",
+  "type": "Travaux",
+  "procedure": "Procédure Ouverte",
+  "categorie": "telecom",
+  "vu_le": "2026-11-27"
+ },
+ "26-114595": {
+  "id": "26-114595",
+  "objet": "AMOA informatique, conseil SI et accompagnement à la transformation numérique",
+  "acheteur": "RESAH",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-08T10:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114595",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
+ "26-114505": {
+  "id": "26-114505",
+  "objet": "Tierce Maintenance Applicative (TMA), évolutive (TME) et prestations associées des applications de dépôt des annonces économiques de la DILA",
+  "acheteur": "DSAF.",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-03T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114505",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
+ "26-114562": {
+  "id": "26-114562",
+  "objet": "Mise en œuvre et maintenance d’une solution intégrée de gestion financière, comptable, budgétaire, achats, trésorerie, immobilisations et reporting en mode SaaS",
+  "acheteur": "Association ASF Vacances",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-04T13:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114562",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-27"
+ },
+ "26-114817": {
+  "id": "26-114817",
+  "objet": "Evolutions applicatives et maintien en conditions opérationnelles du logiciel libre « Bien VU » pour la gestion des signalements avec son framework Lutèce",
+  "acheteur": "Etablissement Public Territorial Plaine Commune",
+  "departements": [
+   "93"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-04T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114817",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "logiciel",
+  "vu_le": "2026-11-27"
+ },
+ "26-114759": {
+  "id": "26-114759",
+  "objet": "ACQUISITION DE SERVEURS RECONDITIONNES A DESTINATION DES LYCEES DE NOUVELLE-AQUITAINE",
+  "acheteur": "Région Nouvelle-Aquitaine",
+  "departements": [
+   "33"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2027-01-15T11:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114759",
+  "type": "Fournitures",
+  "procedure": "Procédure Ouverte",
+  "categorie": "infra",
+  "vu_le": "2026-11-27"
+ },
+ "26-115191": {
+  "id": "26-115191",
+  "objet": "maintenance site internet",
+  "acheteur": "Amiens Métropole",
+  "departements": [
+   "80"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-18T12:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115191",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "web",
+  "vu_le": "2026-11-27"
+ },
  "26-114764": {
   "id": "26-114764",
   "objet": "FOURNITURE ET LIVRAISON DE MATERIELS INFORMATIQUES",
