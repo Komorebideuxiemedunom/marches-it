@@ -191,6 +191,44 @@
   "categorie": "web",
   "vu_le": "2026-11-27"
  },
+ "26-115479": {
+  "id": "26-115479",
+  "objet": "MOE Téléphonie",
+  "acheteur": "MAIRIE DES CLAYES SOUS BOIS",
+  "departements": [
+   "78",
+   "91",
+   "92",
+   "93",
+   "94",
+   "95",
+   "75",
+   "77",
+   "76"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-28T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115479",
+  "type": "Services",
+  "procedure": "Procédure Adaptée",
+  "categorie": "telecom",
+  "vu_le": "2026-11-28"
+ },
+ "26-115517": {
+  "id": "26-115517",
+  "objet": "TIERCE MAINTENANCE APPLICATIVE ET EVOLUTIONS DES APPLICATIONS WEB",
+  "acheteur": "L'association pour la gestion du régime de Garantie des créances des salariés (AGS)",
+  "departements": [
+   "75"
+  ],
+  "parution": "2026-11-27",
+  "limite": "2026-12-21T14:00",
+  "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115517",
+  "type": "Services",
+  "procedure": "Procédure Ouverte",
+  "categorie": "web",
+  "vu_le": "2026-11-28"
+ },
  "26-114764": {
   "id": "26-114764",
   "objet": "FOURNITURE ET LIVRAISON DE MATERIELS INFORMATIQUES",
